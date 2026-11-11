@@ -1,0 +1,221 @@
+{
+  "HEROIC": {
+    "Title": "Heroic Challenges",
+    "ToolHint": "Your challenges and rewards: take a challenge, claim it as completed, and get a reward. The GM deals the cards and decides whether to count them. To open the window quickly, type /hc in chat.",
+    "Kind": {
+      "challenge": "Challenge",
+      "reward": "Reward"
+    },
+    "Button": {
+      "accept": "Accept",
+      "decline": "Decline",
+      "declineReward": "Give up",
+      "choose": "Option {n}",
+      "reroll": "Another reward",
+      "revise": "Change"
+    },
+    "Chat": {
+      "Missing": "This card was not found in the module data.",
+      "Challenge": {
+        "player": "Challenge for {name}",
+        "group": "Challenge for the whole group",
+        "theme": "Session theme",
+        "transfer": "Challenge transferred: {name}"
+      },
+      "Claim": {
+        "Title": "Reward claim",
+        "Text": "{name} claims the challenge is complete.",
+        "accepted": "Counted.",
+        "declined": "Not counted."
+      },
+      "Reward": {
+        "Title": "Reward for {name}",
+        "Rerolls": "Replaced: {n}",
+        "chosen": "Option {n} chosen.",
+        "declined": "Reward declined."
+      },
+      "Item": {
+        "Given": "Item granted",
+        "Story": "GM: enter the result into the game.",
+        "NoActor": "Item not granted: the player has no character assigned. GM: enter the result into the game.",
+        "Failed": "Item not granted. GM: enter the result into the game.",
+        "FailedNotice": "Could not grant the reward item.",
+        "Used": "The item from this reward has already been used, so a new one was not granted."
+      },
+      "Idea": {
+        "Title": "Idea for the GM"
+      }
+    },
+    "Item": {
+      "Prefix": "Reward",
+      "Use": "Use",
+      "Source": "Reward · {set}, No. {n}"
+    },
+    "Set": {
+      "core": "Core Set",
+      "pp": "Power and Prowess",
+      "vv": "Vice and Virtue",
+      "bonus": "Bonus Challenges"
+    },
+    "Quote": {
+      "Open": "“",
+      "Close": "”"
+    },
+    "Click": {
+      "Claim": "Click if this option is complete",
+      "ClaimAll": "Click if the challenge is complete",
+      "Choose": "Click to choose this result",
+      "ClaimTitle": "Reward claim",
+      "ClaimConfirm": "Claim that this option is complete?",
+      "ClaimAllConfirm": "Claim that the whole challenge is complete?"
+    },
+    "Notice": {
+      "ClickGone": "This challenge is already completed or has been reset.",
+      "NoGM": "The GM is not online: this action is not possible.",
+      "Reshuffled": "The deck ran out, so the discard pile was reshuffled.",
+      "NoPlayers": "No one to deal to: no players are online.",
+      "NothingDealt": "Nothing to deal: everyone's hands are full.",
+      "DeckEmpty": "No cards are left in the deck.",
+      "TransferFailed": "Could not transfer the card: the recipient's hand is full.",
+      "ClaimPending": "A claim for this card is already waiting for the GM's decision.",
+      "NoRecipients": "No one to give the reward to: no players are online.",
+      "CardGone": "The challenge has already been reset or transferred, so the claim was declined.",
+      "RewardsEmpty": "No cards are left in the reward deck.",
+      "DecksReset": "The decks have been gathered again.",
+      "NoPlayersAtAll": "No one to deal to: there are no players in the world.",
+      "PendingLost": "Rewards without a card in chat: {n}. They have been returned to the discard pile."
+    },
+    "Window": {
+      "Choose": "Choose",
+      "Challenges": "Challenges",
+      "Rewards": "Rewards",
+      "Stock": "in deck {deck}, in discard {discard}",
+      "Table": {
+        "group": "Group challenge",
+        "theme": "Session theme"
+      },
+      "You": "you",
+      "NoCards": "No challenges in hand.",
+      "NoPlayers": "There are no players in the world yet, so there is no one to deal challenges to.",
+      "Hidden": "Hidden card",
+      "Draw": "Draw a challenge",
+      "Done": "Option {n} done",
+      "DoneAll": "All done",
+      "Swap": "Replace",
+      "Transfer": "Transfer",
+      "Discard": "Give up",
+      "DiscardConfirm": "Discard the challenge without a reward?",
+      "DealAll": "Deal challenges",
+      "IdeaChallenge": "Idea: challenge",
+      "IdeaReward": "Idea: reward",
+      "Give": "Give a reward",
+      "Reset": "Gather the decks again",
+      "ResetConfirm": "All cards will return to their decks, and the challenges in players' hands will be removed. Continue?",
+      "Pending": "awaiting decision: {n}",
+      "ClaimPending": "The claim is waiting for the GM's decision."
+    },
+    "Settings": {
+      "Tools": {
+        "DealName": "Deal challenges",
+        "Deal": "Deal challenges",
+        "DealHint": "Each player receives challenges until they have the required number of cards in hand (or a shared challenge for the group).",
+        "WindowName": "Challenges window",
+        "Window": "Open window",
+        "WindowHint": ""
+      },
+      "Group": {
+        "sets": {
+          "Title": "Additional sets",
+          "Hint": "The Core Set is always included."
+        },
+        "dealing": {
+          "Title": "Dealing challenges",
+          "Hint": ""
+        },
+        "rules": {
+          "Title": "Rules",
+          "Hint": ""
+        },
+        "decisions": {
+          "Title": "Who decides",
+          "Hint": "The GM always has the final say."
+        },
+        "rewards": {
+          "Title": "Rewards",
+          "Hint": ""
+        }
+      },
+      "setPP": {
+        "Name": "Power and Prowess",
+        "Hint": "An expansion about combat and might: 25 challenges and 25 rewards."
+      },
+      "setVV": {
+        "Name": "Vice and Virtue",
+        "Hint": "An expansion about morals and character: 25 challenges and 25 rewards."
+      },
+      "setBonus": {
+        "Name": "Bonus Challenges",
+        "Hint": "25 additional challenges. Their rewards come from the connected reward decks."
+      },
+      "drawMode": {
+        "Name": "How to deal challenges",
+        "Hint": "Each player gets their own challenge, one challenge for the whole group, or a session theme that the GM reveals.",
+        "Player": "Each player gets their own",
+        "Group": "One for the whole group",
+        "Theme": "Session theme"
+      },
+      "handSize": {
+        "Name": "Challenges in a player's hand",
+        "Hint": "How many challenges a player can hold at the same time.",
+        "One": "1",
+        "Two": "2",
+        "Three": "3"
+      },
+      "dealTo": {
+        "Name": "Who to deal to",
+        "Hint": "The GM does not receive challenges.",
+        "Active": "Players who are online",
+        "All": "All players"
+      },
+      "handVisibility": {
+        "Name": "Who can see a player's challenges",
+        "Hint": "A hidden challenge is visible only to its owner; the GM learns the card when the player claims completion.",
+        "All": "Everyone",
+        "Owner": "Owner and GM",
+        "Secret": "Owner only"
+      },
+      "epic": {
+        "Name": "Epic difficulty",
+        "Hint": "Both options of the card must be completed, and the player receives two rewards."
+      },
+      "swapPolicy": {
+        "Name": "Replacing a challenge",
+        "Hint": "Whether a player may take a different challenge if this one does not suit the character.",
+        "None": "Not allowed",
+        "GM": "GM decides",
+        "Owner": "Player decides"
+      },
+      "playerParticipates": {
+        "Name": "Player takes part in decisions",
+        "Hint": "The player draws a challenge themselves, gives it up, and chooses the result of their own reward. If this is off, the GM does everything."
+      },
+      "playerClaims": {
+        "Name": "Player claims completion",
+        "Hint": "The player can report that they completed a challenge. The GM still decides whether to count it."
+      },
+      "claimMode": {
+        "Name": "Reward claims",
+        "Hint": "",
+        "Confirm": "Confirmed by the GM",
+        "Auto": "Accepted immediately"
+      },
+      "rewardItems": {
+        "Name": "Items for rewards",
+        "Hint": "Rewards that are spent in play (rerolls, automatic successes, and so on) are granted as an item: it disappears after use. Story rewards are entered by the GM.",
+        "Play": "Only game rewards",
+        "All": "All rewards",
+        "None": "Do not grant"
+      }
+    }
+  }
+}

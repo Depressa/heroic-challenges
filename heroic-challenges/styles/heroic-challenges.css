@@ -1,0 +1,259 @@
+/* Лицо карты: два тёмных окошка с подсвеченными словами, как на оригинале (рисуется заново, без иллюстраций). */
+.hc-face {
+  --hc-accent: #c9a24b;
+  --hc-paper: #e9dcc0;
+  border: 1px solid color-mix(in srgb, var(--hc-accent) 60%, black);
+  border-radius: 8px;
+  background: var(--hc-paper);
+  color: #1b1410;
+  padding: 6px;
+}
+
+.hc-face.hc-reward {
+  --hc-accent: #4b8fc9;
+  --hc-paper: #d6e3ee;
+}
+
+/* Цвета наборов. Основной набор: золото у вызовов и синий у наград, как на оригинале. */
+.hc-set-pp.hc-challenge {
+  --hc-accent: #d6563f;
+  --hc-paper: #eed5cd;
+}
+
+.hc-set-pp.hc-reward {
+  --hc-accent: #e0883a;
+  --hc-paper: #f1dfc9;
+}
+
+.hc-set-vv.hc-challenge {
+  --hc-accent: #9a63d0;
+  --hc-paper: #e2d6ef;
+}
+
+.hc-set-vv.hc-reward {
+  --hc-accent: #3fb0a4;
+  --hc-paper: #d2e8e5;
+}
+
+.hc-set-bonus.hc-challenge {
+  --hc-accent: #5fae5f;
+  --hc-paper: #d8e8d2;
+}
+
+.hc-face-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 6px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: #0b0707;
+  color: #fff;
+}
+
+.hc-face-set {
+  font-weight: bold;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.hc-face-kind {
+  font-size: var(--font-size-11, 11px);
+  color: var(--hc-accent);
+}
+
+.hc-options {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hc-options li {
+  margin-bottom: 4px;
+  padding: 6px 8px;
+  border: 1px solid var(--hc-accent);
+  border-radius: 6px;
+  background: #0b0707;
+  color: #fff;
+  text-align: center;
+}
+
+.hc-options li.hc-clickable {
+  cursor: pointer;
+}
+
+.hc-options li.hc-clickable:hover {
+  box-shadow: 0 0 0 2px var(--hc-accent);
+}
+
+.hc-options li.chosen {
+  box-shadow: 0 0 0 2px var(--hc-accent);
+}
+
+.hc-options li.dimmed {
+  opacity: 0.45;
+}
+
+.hc-options em.hc-pick {
+  font-style: normal;
+  color: var(--hc-accent);
+}
+
+.hc-quote {
+  margin: 4px 0 0;
+  text-align: center;
+  font-style: italic;
+  font-size: var(--font-size-12, 12px);
+  opacity: 0.8;
+}
+
+/* Жирное начертание у кириллицы в шрифте чата синтезируется и размазывает буквы. */
+.heroic-card,
+.heroic-card *,
+.hc-window,
+.hc-window * {
+  text-shadow: none;
+}
+
+/* Карточка в чате. */
+.heroic-card .hc-title {
+  margin: 0 0 4px;
+  border: none;
+  font-size: var(--font-size-16, 16px);
+}
+
+.heroic-card .hc-line,
+.heroic-card .hc-status,
+.heroic-card .hc-item,
+.heroic-card .hc-note {
+  margin: 4px 0 0;
+}
+
+.heroic-card .hc-status {
+  font-style: italic;
+}
+
+.heroic-card .hc-note {
+  font-size: var(--font-size-12, 12px);
+  opacity: 0.8;
+}
+
+.heroic-card .hc-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.heroic-card .hc-actions button {
+  flex: 1 1 auto;
+  width: auto;
+  height: auto;
+  min-height: 26px;
+  margin: 0;
+  padding: 2px 6px;
+  line-height: 1.2;
+}
+
+/* «Вариант 1» и «Вариант 2» делят первую строку пополам, остальные кнопки идут ниже на всю ширину. */
+.heroic-card .hc-actions button.hc-choose {
+  flex: 1 1 45%;
+}
+
+/* Переопределение браузера: `display: flex` выше перебивает атрибут `hidden`, у скрытого ряда кнопок его возвращаем. */
+.heroic-card .hc-actions[hidden] {
+  display: none;
+}
+
+/* Окно. */
+.hc-window {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 4px;
+}
+
+.hc-stock {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  margin: 0;
+  font-size: var(--font-size-12, 12px);
+  opacity: 0.8;
+}
+
+/* Ряды кнопок: в ряду кнопки равной ширины и занимают всю строку. */
+.hc-toolbar,
+.hc-entry-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.hc-entry-actions {
+  margin-top: 4px;
+}
+
+.hc-pending {
+  margin: 0;
+  font-style: italic;
+  opacity: 0.8;
+}
+
+.hc-row {
+  display: flex;
+  gap: 4px;
+}
+
+.hc-row button {
+  flex: 1 1 0;
+  width: auto;
+  min-width: 0;
+  height: auto;
+  min-height: var(--button-size, 28px);
+  white-space: normal;
+}
+
+.hc-hand h3 {
+  margin: 0 0 4px;
+  border-bottom: 1px solid color-mix(in srgb, currentcolor 25%, transparent);
+}
+
+.hc-you {
+  font-weight: normal;
+  font-size: var(--font-size-12, 12px);
+}
+
+.hc-empty {
+  margin: 0 0 4px;
+  opacity: 0.7;
+}
+
+.hc-entry {
+  margin-bottom: 8px;
+}
+
+.hc-hidden {
+  padding: 18px 8px;
+  border: 1px dashed currentcolor;
+  border-radius: 8px;
+  text-align: center;
+  opacity: 0.7;
+}
+
+/* Заголовки групп в списке настроек модуля. */
+.hc-settings-heading {
+  margin: 16px 0 6px;
+  padding-top: 8px;
+  border-top: 1px solid color-mix(in srgb, currentcolor 25%, transparent);
+}
+
+.hc-settings-heading h3 {
+  margin: 0 0 2px;
+  border: none;
+}
+
+.hc-settings-heading .hint {
+  margin: 0;
+}

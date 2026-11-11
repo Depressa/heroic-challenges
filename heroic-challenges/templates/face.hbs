@@ -1,0 +1,12 @@
+<div class="hc-face hc-{{kind}} hc-set-{{set}}">
+  <header class="hc-face-header">
+    <span class="hc-face-set">{{setTitle}}</span>
+    <span class="hc-face-kind">{{kindLabel}}</span>
+  </header>
+  <ol class="hc-options">
+    {{#each options}}
+    <li class="{{#if chosen}}chosen{{/if}}{{#if dimmed}} dimmed{{/if}}{{#if click}} hc-clickable{{/if}}"{{#if click}} title="{{localize click.titleKey}}" data-hc-click="{{click.kind}}" data-hc-owner="{{click.owner}}" data-hc-uid="{{click.uid}}" data-hc-option="{{click.option}}"{{/if}}>{{{html}}}</li>
+    {{/each}}
+  </ol>
+  {{#if quote}}<p class="hc-quote">{{localize "HEROIC.Quote.Open"}}{{quote}}{{localize "HEROIC.Quote.Close"}}</p>{{/if}}
+</div>

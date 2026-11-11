@@ -1,0 +1,58 @@
+<section class="hc-window">
+  <p class="hc-stock">
+    <span>{{localize "HEROIC.Window.Challenges"}}: {{localize "HEROIC.Window.Stock" deck=stock.challenge.deck discard=stock.challenge.discard}}</span>
+    <span>{{localize "HEROIC.Window.Rewards"}}: {{localize "HEROIC.Window.Stock" deck=stock.reward.deck discard=stock.reward.discard}}{{#if stock.reward.pending}}, {{localize "HEROIC.Window.Pending" n=stock.reward.pending}}{{/if}}</span>
+  </p>
+
+  {{#if isGM}}
+  <div class="hc-toolbar">
+    <div class="hc-row">
+      <button type="button" data-action="dealAll"><i class="fa-solid fa-hand-holding-hand"></i> {{localize "HEROIC.Window.DealAll"}}</button>
+      <button type="button" data-action="give"><i class="fa-solid fa-gift"></i> {{localize "HEROIC.Window.Give"}}</button>
+      <button type="button" data-action="reset"><i class="fa-solid fa-rotate"></i> {{localize "HEROIC.Window.Reset"}}</button>
+    </div>
+    <div class="hc-row">
+      <button type="button" data-action="idea" data-kind="challenge"><i class="fa-solid fa-lightbulb"></i> {{localize "HEROIC.Window.IdeaChallenge"}}</button>
+      <button type="button" data-action="idea" data-kind="reward"><i class="fa-solid fa-lightbulb"></i> {{localize "HEROIC.Window.IdeaReward"}}</button>
+    </div>
+  </div>
+  {{/if}}
+
+  {{#if noPlayers}}<p class="hc-empty">{{localize "HEROIC.Window.NoPlayers"}}</p>{{/if}}
+
+  {{#each hands}}
+  <section class="hc-hand">
+    <h3>{{title}}{{#if mine}} <span class="hc-you">({{localize "HEROIC.Window.You"}})</span>{{/if}}</h3>
+    {{#if empty}}<p class="hc-empty">{{localize "HEROIC.Window.NoCards"}}</p>{{/if}}
+    {{#each cards}}
+    <div class="hc-entry">
+      {{#if hidden}}
+      <div class="hc-hidden">{{localize "HEROIC.Window.Hidden"}}</div>
+      {{else}}
+      {{> hcFace face}}
+      {{/if}}
+      <div class="hc-entry-actions">
+        {{#if claimPending}}<p class="hc-pending">{{localize "HEROIC.Window.ClaimPending"}}</p>{{/if}}
+        {{#if canClaim}}
+        <div class="hc-row">
+          {{#each claimOptions}}
+          <button type="button" data-action="claim" data-owner="{{owner}}" data-uid="{{uid}}" data-option="{{option}}">{{#if all}}{{localize "HEROIC.Window.DoneAll"}}{{else}}{{localize "HEROIC.Window.Done" n=n}}{{/if}}</button>
+          {{/each}}
+        </div>
+        {{/if}}
+        {{#if canManage}}
+        <div class="hc-row">
+          {{#if canSwap}}<button type="button" data-action="swap" data-owner="{{owner}}" data-uid="{{uid}}">{{localize "HEROIC.Window.Swap"}}</button>{{/if}}
+          {{#if canTransfer}}<button type="button" data-action="transfer" data-owner="{{owner}}" data-uid="{{uid}}">{{localize "HEROIC.Window.Transfer"}}</button>{{/if}}
+          {{#if canDiscard}}<button type="button" data-action="discard" data-owner="{{owner}}" data-uid="{{uid}}">{{localize "HEROIC.Window.Discard"}}</button>{{/if}}
+        </div>
+        {{/if}}
+      </div>
+    </div>
+    {{/each}}
+    {{#if canDraw}}
+    <button type="button" data-action="draw" data-owner="{{owner}}"><i class="fa-solid fa-hand"></i> {{localize "HEROIC.Window.Draw"}}</button>
+    {{/if}}
+  </section>
+  {{/each}}
+</section>

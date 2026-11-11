@@ -1,0 +1,1007 @@
+{
+  "set": "pp",
+  "title": "Мощь и доблесть",
+  "source": "Heroic Challenges — Power and Prowess (2020). Только для личного использования.",
+  "cards": [
+    {
+      "id": "pp-c-01",
+      "kind": "challenge",
+      "number": 1,
+      "options": [
+        {
+          "ru": "Убить трёх существ за один ход оружием {ближнего} или {дальнего} боя",
+          "en": "Kill three creatures in a turn with a {melee} or {ranged} weapon"
+        },
+        {
+          "ru": "Выбить у существа {оружие} или {щит}",
+          "en": "Disarm a creature of its {weapon} or {shield}"
+        }
+      ],
+      "quote": {
+        "ru": "Не стесняйтесь, кто следующий?",
+        "en": "Don't be shy, who's next?"
+      }
+    },
+    {
+      "id": "pp-c-02",
+      "kind": "challenge",
+      "number": 2,
+      "options": [
+        {
+          "ru": "{Напугать} или {сбить с толку} противника с помощью {Харизмы} или {звука}",
+          "en": "{Scare} or {confuse} an enemy using {charisma} or {sound}"
+        },
+        {
+          "ru": "{Взобраться на} или {повалить} крупное существо",
+          "en": "{Climb onto} or {knock over} a large creature"
+        }
+      ],
+      "quote": {
+        "ru": "Что это за звук?",
+        "en": "What's that sound?"
+      }
+    },
+    {
+      "id": "pp-c-03",
+      "kind": "challenge",
+      "number": 3,
+      "options": [
+        {
+          "ru": "{Убить} или {пленить} трёх существ за один ход заклинанием",
+          "en": "{Kill} or {capture} three creatures in one turn with a spell"
+        },
+        {
+          "ru": "{Обойти} или {пробить} броню существа",
+          "en": "{Circumvent} or {pierce} a creature's armor"
+        }
+      ],
+      "quote": {
+        "ru": "И это вы называете… доспехами?",
+        "en": "You're calling that... armor?"
+      }
+    },
+    {
+      "id": "pp-c-04",
+      "kind": "challenge",
+      "number": 4,
+      "options": [
+        {
+          "ru": "Ввести существо в заблуждение с помощью {местности} или {проворства}",
+          "en": "Mislead a creature using {terrain} or {agility}"
+        },
+        {
+          "ru": "Сковать существо с помощью {магии} или {силы}",
+          "en": "Restrain a creature using {magic} or {strength}"
+        }
+      ],
+      "quote": {
+        "ru": "Бури заставляют деревья пускать корни глубже.",
+        "en": "Storms make trees grow deeper roots."
+      }
+    },
+    {
+      "id": "pp-c-05",
+      "kind": "challenge",
+      "number": 5,
+      "options": [
+        {
+          "ru": "{Впечатлить} или {ошеломить} кого-либо с помощью {книги} или {песни}",
+          "en": "{Impress} or {stun} someone using a {book} or {song}"
+        },
+        {
+          "ru": "Использовать книгу, чтобы избежать атаки {дальнего боя} или атаки {заклинанием}",
+          "en": "Use a book to avoid a {ranged} or {spell} attack"
+        }
+      ],
+      "quote": {
+        "ru": "В книгах есть магия, способная перенести в другое измерение.",
+        "en": "Books have the magic to transport one to another dimension."
+      }
+    },
+    {
+      "id": "pp-c-06",
+      "kind": "challenge",
+      "number": 6,
+      "options": [
+        {
+          "ru": "{Убить} или {усмирить} существо внезапной атакой",
+          "en": "{Kill} or {subdue} a creature with a surprise attack"
+        },
+        {
+          "ru": "{Обезоружить} или {сделать недееспособным} крупное существо",
+          "en": "{Disarm} or {incapacitate} a large creature"
+        }
+      ],
+      "quote": {
+        "ru": "Чем больше существо, тем крупнее мишень.",
+        "en": "The bigger the creature, the bigger the target."
+      }
+    },
+    {
+      "id": "pp-c-07",
+      "kind": "challenge",
+      "number": 7,
+      "options": [
+        {
+          "ru": "{Запугать} или {очаровать} противника, чтобы он бежал с поля боя",
+          "en": "{Intimidate} or {charm} a foe to flee from the battle"
+        },
+        {
+          "ru": "С помощью {магии} или {Харизмы} обратить противника против его союзников",
+          "en": "Use {magic} or {charisma} to turn a foe against its allies"
+        }
+      ],
+      "quote": {
+        "ru": "Держи друзей близко, а врагов — ещё ближе.",
+        "en": "Keep your friends close, and your enemies closer."
+      }
+    },
+    {
+      "id": "pp-c-08",
+      "kind": "challenge",
+      "number": 8,
+      "options": [
+        {
+          "ru": "Победить существо {в прыжке} или {в полёте}",
+          "en": "Defeat a creature while {leaping} or {flying}"
+        },
+        {
+          "ru": "{Активировать} или {обезвредить} ловушку дальней атакой",
+          "en": "{Trigger} or {disarm} a trap using a ranged attack"
+        }
+      ],
+      "quote": {
+        "ru": "Это должно сработать!",
+        "en": "That should do the trick!"
+      }
+    },
+    {
+      "id": "pp-c-09",
+      "kind": "challenge",
+      "number": 9,
+      "options": [
+        {
+          "ru": "{Обчистить карманы} врага или {отвлечь} его, оставаясь незамеченным",
+          "en": "{Pickpocket} or {distract} an enemy while staying unnoticed"
+        },
+        {
+          "ru": "Сразить {существо} или {НИП} одной атакой",
+          "en": "Slay a {creature} or {NPC} with a single attack"
+        }
+      ],
+      "quote": {
+        "ru": "Они и не заметили, как я подошёл.",
+        "en": "They never saw me coming."
+      }
+    },
+    {
+      "id": "pp-c-10",
+      "kind": "challenge",
+      "number": 10,
+      "options": [
+        {
+          "ru": "{Поджечь} или {заморозить} {монстра} или {НИП}",
+          "en": "{Ignite} or {freeze} a {monster} or {NPC}"
+        },
+        {
+          "ru": "{Убить} или {одолеть} монстра, используя окружение",
+          "en": "{Kill} or {overcome} a monster by using the environment"
+        }
+      ],
+      "quote": {
+        "ru": "Когда клинки подводят, обратись за подсказкой к природе.",
+        "en": "When your blades fail you, turn to nature for guidance."
+      }
+    },
+    {
+      "id": "pp-c-11",
+      "kind": "challenge",
+      "number": 11,
+      "options": [
+        {
+          "ru": "Помочь союзнику {спастись от} существа или {победить} его",
+          "en": "Help an ally {escape} or {defeat} a creature"
+        },
+        {
+          "ru": "Создать преграду с помощью {магии} или {местности}",
+          "en": "Create a barrier using {magic} or {terrain}"
+        }
+      ],
+      "quote": {
+        "ru": "Ведите нас, отважные.",
+        "en": "Lead the way, courageous ones."
+      }
+    },
+    {
+      "id": "pp-c-12",
+      "kind": "challenge",
+      "number": 12,
+      "options": [
+        {
+          "ru": "Использовать {ярость} или {поклонение}, чтобы запугать группу противников",
+          "en": "Use {rage} or {worship} to intimidate a group of enemies"
+        },
+        {
+          "ru": "{Пробежать, вскарабкаться, пропрыгнуть} или {проплыть} 100 футов за один ход",
+          "en": "{Run, climb, jump} or {swim} 100 feet in a single turn"
+        }
+      ],
+      "quote": {
+        "ru": "Не останавливайте меня сейчас…",
+        "en": "Don't stop me now..."
+      }
+    },
+    {
+      "id": "pp-c-13",
+      "kind": "challenge",
+      "number": 13,
+      "options": [
+        {
+          "ru": "Повысить {боевой дух} или {силу} союзника",
+          "en": "Increase an ally's {morale} or {strength}"
+        },
+        {
+          "ru": "С помощью магии {восстановить} или {уничтожить} {предмет} или {человека}",
+          "en": "Use magic to {restore} or {destroy} an {item} or {person}"
+        }
+      ],
+      "quote": {
+        "ru": "Держи, друг, ещё не всё кончено.",
+        "en": "Here you go friend, this is not over yet."
+      }
+    },
+    {
+      "id": "pp-c-14",
+      "kind": "challenge",
+      "number": 14,
+      "options": [
+        {
+          "ru": "{Преодолеть} или {обезвредить} ловушку с помощью {навыка} или {магии}",
+          "en": "{Overcome} or {disarm} a trap using {skill} or {magic}"
+        },
+        {
+          "ru": "{Поймать} или {убить} монстра с помощью {ловушки} или {местности}",
+          "en": "{Catch} or {kill} a monster using a {trap} or {terrain}"
+        }
+      ],
+      "quote": {
+        "ru": "Я сказал: убей его, а не сражайся с ним!",
+        "en": "I said kill it, not fight it!"
+      }
+    },
+    {
+      "id": "pp-c-15",
+      "kind": "challenge",
+      "number": 15,
+      "options": [
+        {
+          "ru": "Оставаться {скрытым} или {невредимым} в течение одного боя",
+          "en": "Stay {hidden} or {unhurt} during one combat"
+        },
+        {
+          "ru": "Попасть {атакой} или {заклинанием} по движущемуся существу, находящемуся дальше чем в 100 футах (30 м)",
+          "en": "Hit a moving creature over 100 ft. (30 m) away with an {attack} or {spell}"
+        }
+      ],
+      "quote": {
+        "ru": "Расстояние — понятие относительное.",
+        "en": "Distance is only relative."
+      }
+    },
+    {
+      "id": "pp-c-16",
+      "kind": "challenge",
+      "number": 16,
+      "options": [
+        {
+          "ru": "Обнаружить {скрытое} или {невидимое} существо",
+          "en": "Locate a {hidden} or {invisible} creature"
+        },
+        {
+          "ru": "{Прорваться силой} или {прокрасться} через усиленно охраняемое место",
+          "en": "{Force} or {sneak} through a heavily guarded space"
+        }
+      ],
+      "quote": {
+        "ru": "Не спрячешься от того, чего не видишь.",
+        "en": "You can't hide from what you can't see."
+      }
+    },
+    {
+      "id": "pp-c-17",
+      "kind": "challenge",
+      "number": 17,
+      "options": [
+        {
+          "ru": "{Расчленить} или {обезглавить} монстра, не используя оружия",
+          "en": "{Dismember} or {behead} a {monster} without using weapons"
+        },
+        {
+          "ru": "{Ошеломить} или {запугать}, используя первобытную мощь",
+          "en": "{Stun} or {intimidate} using primal force"
+        }
+      ],
+      "quote": {
+        "ru": "Моя сила идёт из самой глубины.",
+        "en": "My power comes from deep within."
+      }
+    },
+    {
+      "id": "pp-c-18",
+      "kind": "challenge",
+      "number": 18,
+      "options": [
+        {
+          "ru": "Использовать останки павших, чтобы {спрятаться} или {обмануть}",
+          "en": "Use the remains of the fallen to {hide} or {deceive}"
+        },
+        {
+          "ru": "{Похоронить} или {почтить} павшего воина",
+          "en": "{Bury} or {honor} a fallen warrior"
+        }
+      ],
+      "quote": {
+        "ru": "Никогда не позволяй жизни увядать из страха смерти.",
+        "en": "Never let life wither from the fear of death."
+      }
+    },
+    {
+      "id": "pp-c-19",
+      "kind": "challenge",
+      "number": 19,
+      "options": [
+        {
+          "ru": "Оседлать {летающее} или {плавающее} существо",
+          "en": "Ride a {flying} or {swimming} creature"
+        },
+        {
+          "ru": "{Убить} или {вывести из строя} существо с помощью {воды} или {воздуха}",
+          "en": "{Kill} or {disable} a creature using {water} or {air}"
+        }
+      ],
+      "quote": {
+        "ru": "Дыши, просто… дыши!",
+        "en": "Breathe, just... breathe!"
+      }
+    },
+    {
+      "id": "pp-c-20",
+      "kind": "challenge",
+      "number": 20,
+      "options": [
+        {
+          "ru": "Убить врага с помощью {животного} или {последователя}",
+          "en": "Use an {animal} or {follower} to kill a foe"
+        },
+        {
+          "ru": "Уладить конфликт с помощью {дипломатии} или {искусства}",
+          "en": "Overcome conflict using {diplomacy} or {art}"
+        }
+      ],
+      "quote": {
+        "ru": "Где был бы храбрый рыцарь без своего благородного скакуна?",
+        "en": "Where would a brave knight be without his noble steed?"
+      }
+    },
+    {
+      "id": "pp-c-21",
+      "kind": "challenge",
+      "number": 21,
+      "options": [
+        {
+          "ru": "Выиграть бой в {темноте} или на {опасной местности}",
+          "en": "Win a combat in {darkness} or {hazardous terrain}"
+        },
+        {
+          "ru": "{Ослепить} или {оглушить} {существо} или {НИП}",
+          "en": "{Blind} or {deafen} a {creature} or {NPC}"
+        }
+      ],
+      "quote": {
+        "ru": "Глаза бесполезны, когда слеп разум.",
+        "en": "Eyes are useless when the mind is blind."
+      }
+    },
+    {
+      "id": "pp-c-22",
+      "kind": "challenge",
+      "number": 22,
+      "options": [
+        {
+          "ru": "Оправиться от {тяжёлой раны} или {затяжного проклятия}",
+          "en": "Recover from a {grievous wound} or {lingering curse}"
+        },
+        {
+          "ru": "Исцелить или спасти {члена отряда} или {НИП}",
+          "en": "Heal or save a {party member} or {NPC}"
+        }
+      ],
+      "quote": {
+        "ru": "Время лечит все раны.",
+        "en": "Time heals all wounds."
+      }
+    },
+    {
+      "id": "pp-c-23",
+      "kind": "challenge",
+      "number": 23,
+      "options": [
+        {
+          "ru": "Победить противника с помощью {света} или {тьмы}",
+          "en": "Use {light} or {darkness} to overcome a foe"
+        },
+        {
+          "ru": "Проникнуть внутрь с помощью {проворства, магии} или {слов}",
+          "en": "Gain entry using {agility, magic} or {talk}"
+        }
+      ],
+      "quote": {
+        "ru": "Нет ничего недостижимого.",
+        "en": "Nothing is unattainable."
+      }
+    },
+    {
+      "id": "pp-c-24",
+      "kind": "challenge",
+      "number": 24,
+      "options": [
+        {
+          "ru": "Убить существо с помощью {яда} или {проклятия}",
+          "en": "Kill a creature using a {poison} or a {curse}"
+        },
+        {
+          "ru": "Уладить конфликт с помощью {поклонения} или {не используя оружия}",
+          "en": "Overcome a conflict using {worship} or {no weapons}"
+        }
+      ],
+      "quote": {
+        "ru": "Чтобы стать старым и мудрым, нужно остаться в живых.",
+        "en": "To be old and wise, you have to stay alive."
+      }
+    },
+    {
+      "id": "pp-c-25",
+      "kind": "challenge",
+      "number": 25,
+      "options": [
+        {
+          "ru": "{Замаскироваться} или {преобразиться}, чтобы затеряться в толпе",
+          "en": "{Disguise} or {transform} to disappear in a crowd"
+        },
+        {
+          "ru": "Помочь {члену отряда} получить {боевое} или {социальное} преимущество",
+          "en": "Aid a {party member} to gain a {combat} or {social} advantage"
+        }
+      ],
+      "quote": {
+        "ru": "Внешность обманчива, не так ли?",
+        "en": "Looks can be deceiving, no?"
+      }
+    },
+    {
+      "id": "pp-r-01",
+      "kind": "reward",
+      "number": 1,
+      "options": [
+        {
+          "ru": "Одна атака {оружием} или {заклинанием} наносит двойной урон",
+          "en": "One {weapon} or {spell} attack deals double damage",
+          "tag": "play"
+        },
+        {
+          "ru": "Нейтрализуйте эффекты {заклинания} или {урона}",
+          "en": "Negate the effects of a {spell} or {damage}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Иногда лучшая защита — это лучшее нападение.",
+        "en": "Sometimes, the best defence is having the best offence."
+      }
+    },
+    {
+      "id": "pp-r-02",
+      "kind": "reward",
+      "number": 2,
+      "options": [
+        {
+          "ru": "Совершите одну дополнительную {атаку} или {перемещение}",
+          "en": "Make one extra {attack} or {movement}",
+          "tag": "play"
+        },
+        {
+          "ru": "Перебросьте проверку {поиска} или {спасбросок}",
+          "en": "Re-roll a {search} or {save} skill check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Если не получается быть умным, будь быстрым.",
+        "en": "If you can't be smart, be fast."
+      }
+    },
+    {
+      "id": "pp-r-03",
+      "kind": "reward",
+      "number": 3,
+      "options": [
+        {
+          "ru": "Используйте показатели члена отряда для своего {КД} или {атаки}",
+          "en": "Use a party member's stats for your {armor} or {attack}",
+          "tag": "play"
+        },
+        {
+          "ru": "Бросьте дважды и выберите лучший результат для своей проверки {навыка} или броска {атаки}",
+          "en": "Roll 2 times. Pick the best result for your {skill} or {attack} roll",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Половина битвы — знать самый удачный момент для удара.",
+        "en": "Half the battle is knowing the most opportune moment to strike."
+      }
+    },
+    {
+      "id": "pp-r-04",
+      "kind": "reward",
+      "number": 4,
+      "options": [
+        {
+          "ru": "Используйте показатели члена отряда для своего {спасброска} или {КД}",
+          "en": "Use a party member's stats for a {save} or {armor}",
+          "tag": "play"
+        },
+        {
+          "ru": "Получите сопротивление {огненному} урону или урону {холодом} на 1 час",
+          "en": "Gain resistance to {fire} or {cold} damage for one hour",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Нет брони лучше, чем союзник, прикрывающий твою спину.",
+        "en": "No armor is better than an ally who's got your back."
+      }
+    },
+    {
+      "id": "pp-r-05",
+      "kind": "reward",
+      "number": 5,
+      "options": [
+        {
+          "ru": "Игнорируйте урон от {падения} или {колющий} урон в течение 1 часа",
+          "en": "Ignore {falling} or {piercing} damage for one hour",
+          "tag": "play"
+        },
+        {
+          "ru": "Получайте вдвое меньше урона от {дробящего} или {рубящего} оружия в течение 1 часа",
+          "en": "Take half damage from {blunt} or {slashing} weapons for one hour",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Когда свечение угасло, их кожа приобрела вид камня.",
+        "en": "When the glow faded, their skin had taken the aspect of stone."
+      }
+    },
+    {
+      "id": "pp-r-06",
+      "kind": "reward",
+      "number": 6,
+      "options": [
+        {
+          "ru": "Перебросьте {спасбросок} или {проверку навыка} по выбору",
+          "en": "Re-roll a {saving throw} or {skill check} of choice",
+          "tag": "play"
+        },
+        {
+          "ru": "Игнорируйте эффекты {иллюзий} или {очарования} в течение 1 часа",
+          "en": "Ignore the effects of {illusion} or {charm} for one hour",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Талисман моего племени защищает меня.",
+        "en": "The talisman of my tribe protects me."
+      }
+    },
+    {
+      "id": "pp-r-07",
+      "kind": "reward",
+      "number": 7,
+      "options": [
+        {
+          "ru": "Удвойте свой бонус к проверкам {поиска} или {Скрытности}",
+          "en": "Double your bonus to {search} or {stealth}",
+          "tag": "play"
+        },
+        {
+          "ru": "Автоматически преуспейте во {взломе замков} или в {Убеждении}",
+          "en": "Automatically succeed at {lockpicking} or {persuasion}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "От меня ничто не скроется.",
+        "en": "Nothing remains hidden from me."
+      }
+    },
+    {
+      "id": "pp-r-08",
+      "kind": "reward",
+      "number": 8,
+      "options": [
+        {
+          "ru": "Восстановите все свои {ячейки заклинаний} или {хиты}",
+          "en": "Recover all of your {spell slots} or {hit points}",
+          "tag": "play"
+        },
+        {
+          "ru": "Получите качественное зелье {лечения} или {невидимости}",
+          "en": "Receive a quality {healing} or {invisibility} potion",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Вот и всё! Как новенький.",
+        "en": "There you go! As good as new."
+      }
+    },
+    {
+      "id": "pp-r-09",
+      "kind": "reward",
+      "number": 9,
+      "options": [
+        {
+          "ru": "Одна атака наносит двойной урон {нежити} или {демонам}",
+          "en": "One attack deals double damage to {undead} or {demons}",
+          "tag": "play"
+        },
+        {
+          "ru": "Ваша атака также наносит {огненный} урон или урон {холодом} в течение 1 часа",
+          "en": "Your attack also deals {fire} or {cold} damage for one hour",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Чем гуще тьма, тем ярче горит свет.",
+        "en": "Light burns brighter as darkness grows."
+      }
+    },
+    {
+      "id": "pp-r-10",
+      "kind": "reward",
+      "number": 10,
+      "options": [
+        {
+          "ru": "Вы получаете случайный {свиток заклинания} или {сокровище}",
+          "en": "You receive a random {spell scroll} or {treasure}",
+          "tag": "story"
+        },
+        {
+          "ru": "Местный кузнец предлагает превратить ваше {оружие} или {доспех} в изделие мастерской работы",
+          "en": "A local smith offers to upgrade your {weapon} or {armor} into a masterwork item",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Так-так, и что это у нас тут?",
+        "en": "Well now, what do we have here?"
+      }
+    },
+    {
+      "id": "pp-r-11",
+      "kind": "reward",
+      "number": 11,
+      "options": [
+        {
+          "ru": "Перебросьте неудачный {спасбросок} или {бросок атаки}",
+          "en": "Reroll a failed {save} or {attack}",
+          "tag": "play"
+        },
+        {
+          "ru": "Используйте {Харизму} или {Мудрость} члена отряда для своей проверки навыка",
+          "en": "Use a party member's {charisma} or {wisdom} stat for your own skill check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Теперь веришь в мой счастливый талисман?",
+        "en": "Believe my lucky talisman now?"
+      }
+    },
+    {
+      "id": "pp-r-12",
+      "kind": "reward",
+      "number": 12,
+      "options": [
+        {
+          "ru": "Перебросьте {бросок атаки} или {проверку навыка} по выбору",
+          "en": "Reroll an {attack} or {skill check} of choice",
+          "tag": "play"
+        },
+        {
+          "ru": "Излечитесь от {проклятия} или {отравления}",
+          "en": "Recover from being {cursed} or {poisoned}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Хвала богам, вы услышали мой зов!",
+        "en": "Praise the gods, you heard my call!"
+      }
+    },
+    {
+      "id": "pp-r-13",
+      "kind": "reward",
+      "number": 13,
+      "options": [
+        {
+          "ru": "Бросьте дважды и используйте лучший результат для своего {спасброска} или {броска атаки}",
+          "en": "Roll twice. Use the best result for your {save} or {attack}",
+          "tag": "play"
+        },
+        {
+          "ru": "Игнорируйте эффект того, что вы {ослеплены} или {оглохли}",
+          "en": "Ignore the effect of being {blinded} or {deafened}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Мои чувства стали остры, как у волка.",
+        "en": "My senses have become as keen as a wolf's."
+      }
+    },
+    {
+      "id": "pp-r-14",
+      "kind": "reward",
+      "number": 14,
+      "options": [
+        {
+          "ru": "Игнорируйте эффект того, что вы {очарованы} или {испуганы}",
+          "en": "Ignore the effect of being {charmed} or {frightened}",
+          "tag": "play"
+        },
+        {
+          "ru": "Бросьте дважды. {Выберите лучший результат} или {сложите оба}",
+          "en": "Roll twice. {Pick the best result} or {add them together}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Повтори-ка?",
+        "en": "Come again?"
+      }
+    },
+    {
+      "id": "pp-r-15",
+      "kind": "reward",
+      "number": 15,
+      "options": [
+        {
+          "ru": "Автоматически преуспейте в проверке {Мудрости} или {поиска}",
+          "en": "Automatically succeed a {wisdom} or {search} check",
+          "tag": "play"
+        },
+        {
+          "ru": "Поменяйтесь с членом отряда общим количеством {хитов} или {ячеек заклинаний}",
+          "en": "Swap your {hit point} or {spell slot} total with a party member",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Из нас получилась отличная команда, согласны?",
+        "en": "We make a fine team, don't you agree?"
+      }
+    },
+    {
+      "id": "pp-r-16",
+      "kind": "reward",
+      "number": 16,
+      "options": [
+        {
+          "ru": "Игнорируйте эффекты {труднопроходимой местности} или {погоды} в течение 1 дня",
+          "en": "Ignore the effects of {difficult terrain} or {weather} for 1 day",
+          "tag": "play"
+        },
+        {
+          "ru": "Получите иммунитет к {огненному} урону или урону {холодом} на 1 час",
+          "en": "Gain immunity to {fire} or {cold} damage for one hour",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Слава Ордену Клыка.",
+        "en": "All hail the Order of the Fang."
+      }
+    },
+    {
+      "id": "pp-r-17",
+      "kind": "reward",
+      "number": 17,
+      "options": [
+        {
+          "ru": "Поменяйтесь результатом инициативы с {монстром} или {членом отряда}",
+          "en": "Swap initiative result with a {monster} or {party member}",
+          "tag": "play"
+        },
+        {
+          "ru": "Совершите одно {дополнительное действие} в течение раунда боя",
+          "en": "Take one {extra action} during a combat round",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Вот это красивая работа ног.",
+        "en": "That's some fancy footwork right there."
+      }
+    },
+    {
+      "id": "pp-r-18",
+      "kind": "reward",
+      "number": 18,
+      "options": [
+        {
+          "ru": "Игнорируйте последствия {мгновенной смерти} или {ловушки}",
+          "en": "Ignore the effects of {instant death} or a {trap}",
+          "tag": "play"
+        },
+        {
+          "ru": "Игнорируйте потерю концентрации на {заклинании} или {навыке}",
+          "en": "Ignore losing concentration on a {spell} or {skill}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Это всего лишь царапина!",
+        "en": "Tis but a scratch!"
+      }
+    },
+    {
+      "id": "pp-r-19",
+      "kind": "reward",
+      "number": 19,
+      "options": [
+        {
+          "ru": "Используйте показатели члена отряда для своего броска {Силы} или {атаки}",
+          "en": "Use a party member's stats for your {strength} or {attack} roll",
+          "tag": "play"
+        },
+        {
+          "ru": "Удвойте свой бонус к {атаке} или {навыку} на один раунд",
+          "en": "Double your {attack} or {skill} bonus for one round",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Подсобишь мне с этим?",
+        "en": "Give me a hand with this, would you?"
+      }
+    },
+    {
+      "id": "pp-r-20",
+      "kind": "reward",
+      "number": 20,
+      "options": [
+        {
+          "ru": "Бросьте дважды и выберите лучший результат для своей {атаки} или {урона}",
+          "en": "Roll 2 times. Choose the best result for your {attack} or {damage}",
+          "tag": "play"
+        },
+        {
+          "ru": "Бросьте дважды. {Выберите лучший результат} или {сложите оба}",
+          "en": "Roll twice. {Pick the best result} or {add them together}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Они падали, как листья с осеннего дерева.",
+        "en": "They fell, like leaves from a tree in autumn."
+      }
+    },
+    {
+      "id": "pp-r-21",
+      "kind": "reward",
+      "number": 21,
+      "options": [
+        {
+          "ru": "Игнорируйте последствия одной {атаки} или одного {падения}",
+          "en": "Ignore the effects of one {attack} or {fall}",
+          "tag": "play"
+        },
+        {
+          "ru": "Поменяйтесь с членом отряда показателем {КД} или {атаки} на 1 минуту",
+          "en": "Swap {armor} or {attack} stat with a party member for one minute",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Вы крепче, чем кажетесь!",
+        "en": "You're tougher than you look!"
+      }
+    },
+    {
+      "id": "pp-r-22",
+      "kind": "reward",
+      "number": 22,
+      "options": [
+        {
+          "ru": "Ваши {боеприпасы, компоненты заклинаний} или {рационы} восполняются",
+          "en": "Your {ammunition, spell components} or {rations} are restored",
+          "tag": "story"
+        },
+        {
+          "ru": "Бросьте дважды. {Выберите лучший результат} или {сложите оба}",
+          "en": "Roll twice. {Pick the best result} or {add them together}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Я прихватил кое-что на дорожку.",
+        "en": "I brought a little something for the road."
+      }
+    },
+    {
+      "id": "pp-r-23",
+      "kind": "reward",
+      "number": 23,
+      "options": [
+        {
+          "ru": "Одна атака наносит двойной урон {дереву, камню} или {щупальцам}",
+          "en": "One attack deals double damage to {wood, stone} or {tentacles}",
+          "tag": "play"
+        },
+        {
+          "ru": "Один раз избегите урона от {магического} существа или от {нежити}",
+          "en": "Avoid damage from a {magical} or {undead} creature once",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Знать их слабость — уже полбитвы.",
+        "en": "Knowing their weakness is half the fight."
+      }
+    },
+    {
+      "id": "pp-r-24",
+      "kind": "reward",
+      "number": 24,
+      "options": [
+        {
+          "ru": "Ваша {ближняя} или {дальняя} атака попадает автоматически",
+          "en": "Your {melee} or {ranged} attack naturally hits",
+          "tag": "play"
+        },
+        {
+          "ru": "Ваша атака {пугает} или {сбивает с толку} противника",
+          "en": "Your attack {frightens} or {confuses} the enemy",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Бойтесь моей удачи и твёрдой руки.",
+        "en": "Fear my fortune and steady hand."
+      }
+    },
+    {
+      "id": "pp-r-25",
+      "kind": "reward",
+      "number": 25,
+      "options": [
+        {
+          "ru": "Удвойте результат своей проверки {Ловкости} или {Телосложения}",
+          "en": "Double the result of your {dexterity} or {constitution} check",
+          "tag": "play"
+        },
+        {
+          "ru": "Игнорируйте эффекты {кислоты} или {яда} в течение 1 минуты",
+          "en": "Ignore the effects of {acid} or {poison} for one minute",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Кто там? Слизь?",
+        "en": "Ooze there?"
+      }
+    }
+  ]
+}

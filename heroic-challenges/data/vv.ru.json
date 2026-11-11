@@ -1,0 +1,1007 @@
+{
+  "set": "vv",
+  "title": "Порок и добродетель",
+  "source": "Heroic Challenges — Vice and Virtue (2020). Только для личного использования.",
+  "cards": [
+    {
+      "id": "vv-c-01",
+      "kind": "challenge",
+      "number": 1,
+      "options": [
+        {
+          "ru": "{Скрыть} или {признать} собственные ошибки",
+          "en": "{Conceal} or {confront} your own mistakes"
+        },
+        {
+          "ru": "Обзавестись новым {изъяном} или {чертой характера}",
+          "en": "Develop a new {flaw} or {personality trait}"
+        }
+      ],
+      "quote": {
+        "ru": "Лишь взглянув страху в лицо, мы можем его победить.",
+        "en": "Only by facing our fears can we overcome them."
+      }
+    },
+    {
+      "id": "vv-c-02",
+      "kind": "challenge",
+      "number": 2,
+      "options": [
+        {
+          "ru": "{Почтить память} близкого человека или {скрыть} его утрату",
+          "en": "{Commemorate} or {conceal} the loss of a loved one"
+        },
+        {
+          "ru": "{Спасти} или {бросить} нуждающегося в помощи",
+          "en": "{Rescue} or {abandon} a person in need"
+        }
+      ],
+      "quote": {
+        "ru": "Их не забудут.",
+        "en": "They shall not be forgotten."
+      }
+    },
+    {
+      "id": "vv-c-03",
+      "kind": "challenge",
+      "number": 3,
+      "options": [
+        {
+          "ru": "Развязать {благородную} или {корыстную} войну",
+          "en": "Start an {honourable} or {self-serving} war"
+        },
+        {
+          "ru": "Вести за собой людей через {страх} или {уважение}",
+          "en": "Lead a group using {fear} or {respect}"
+        }
+      ],
+      "quote": {
+        "ru": "Когда воюют богатые, умирают бедные.",
+        "en": "When the rich wage war, it's the poor who die."
+      }
+    },
+    {
+      "id": "vv-c-04",
+      "kind": "challenge",
+      "number": 4,
+      "options": [
+        {
+          "ru": "{Защитить} или {восстановить} {городок} или {памятник}",
+          "en": "{Protect} or {restore} a {town} or {monument}"
+        },
+        {
+          "ru": "{Злоупотребить} или {отвергнуть} честное предложение",
+          "en": "{Abuse} or {refuse} an honorable offer"
+        }
+      ],
+      "quote": {
+        "ru": "Я выполнил свою часть уговора, теперь твой черёд.",
+        "en": "I kept my end of the bargain, now it's time to keep yours."
+      }
+    },
+    {
+      "id": "vv-c-05",
+      "kind": "challenge",
+      "number": 5,
+      "options": [
+        {
+          "ru": "Исполнить {благородный долг} или {принести жертву}",
+          "en": "Complete a {noble duty} or {make a sacrifice}"
+        },
+        {
+          "ru": "{Почтить} или {осквернить} древнее место захоронения",
+          "en": "{Venerate} or {desecrate} an ancient burial site"
+        }
+      ],
+      "quote": {
+        "ru": "Что делает героя настоящим? Сияющий клинок или истинное сострадание?",
+        "en": "What makes a true hero? A shining blade or true compassion?"
+      }
+    },
+    {
+      "id": "vv-c-06",
+      "kind": "challenge",
+      "number": 6,
+      "options": [
+        {
+          "ru": "Отнестись к умирающему существу с {достоинством} или {враждебностью}",
+          "en": "Treat a dying creature with {dignity} or {enmity}"
+        },
+        {
+          "ru": "{Подавить} или {разжечь} политические волнения",
+          "en": "{Quell} or {promote} political unrest"
+        }
+      ],
+      "quote": {
+        "ru": "Уходи с миром, твоя смерть стоит тысячи слов.",
+        "en": "Pass in peace, your death is worth a thousand words."
+      }
+    },
+    {
+      "id": "vv-c-07",
+      "kind": "challenge",
+      "number": 7,
+      "options": [
+        {
+          "ru": "{Сфальсифицировать} или {добыть} доказательства для суда",
+          "en": "{Falsify} or {procure} evidence for a trial"
+        },
+        {
+          "ru": "Собрать сведения с помощью {лжи} или {союзников}",
+          "en": "Gather information using {lies} or {allies}"
+        }
+      ],
+      "quote": {
+        "ru": "Свет доказательств озаряет самые тёмные уголки разума.",
+        "en": "The light of evidence reveals the darkest corners of the mind."
+      }
+    },
+    {
+      "id": "vv-c-08",
+      "kind": "challenge",
+      "number": 8,
+      "options": [
+        {
+          "ru": "{Помешать} или {помочь} бегству врага",
+          "en": "{Prevent} or {aid} an enemy escaping"
+        },
+        {
+          "ru": "Проникнуть внутрь с помощью {угроз} или {обаяния}",
+          "en": "Gain entry using {threats} or {charm}"
+        }
+      ],
+      "quote": {
+        "ru": "Лучше рискнуть и спасти виновного, чем осудить невиновного.",
+        "en": "Better to risk saving a guilty person, than condemn an innocent one."
+      }
+    },
+    {
+      "id": "vv-c-09",
+      "kind": "challenge",
+      "number": 9,
+      "options": [
+        {
+          "ru": "{Купить} или {украсть} жизненно важные сведения",
+          "en": "{Purchase} or {steal} essential information"
+        },
+        {
+          "ru": "{Привлечь} или {прогнать} верного союзника",
+          "en": "{Recruit} or {dismiss} a loyal ally"
+        }
+      ],
+      "quote": {
+        "ru": "Сколько нужно, чтобы развязать тебе язык?",
+        "en": "How much will it take to loosen your tongue?"
+      }
+    },
+    {
+      "id": "vv-c-10",
+      "kind": "challenge",
+      "number": 10,
+      "options": [
+        {
+          "ru": "{Создать} или {разрушить} убежище",
+          "en": "{Create} or {destroy} a place of sanctuary"
+        },
+        {
+          "ru": "{Купить} или {захватить} заведение",
+          "en": "{Purchase} or {seize} an establishment"
+        }
+      ],
+      "quote": {
+        "ru": "Дом там, где сердце.",
+        "en": "Home is where the heart is."
+      }
+    },
+    {
+      "id": "vv-c-11",
+      "kind": "challenge",
+      "number": 11,
+      "options": [
+        {
+          "ru": "{Подружиться с} или {разгневать} видного влиятельного НИП",
+          "en": "{Befriend} or {enrage} a notable NPC of power"
+        },
+        {
+          "ru": "{Вернуть} или {разорвать} дорогие вам отношения",
+          "en": "{Restore} or {end} a cherished relationship"
+        }
+      ],
+      "quote": {
+        "ru": "Любовь — это могучая и смертельная связь.",
+        "en": "Love is a powerful and deadly bond."
+      }
+    },
+    {
+      "id": "vv-c-12",
+      "kind": "challenge",
+      "number": 12,
+      "options": [
+        {
+          "ru": "{Уберечь} или {спасти} безобидного зверя",
+          "en": "{Safeguard} or {rescue} a harmless beast"
+        },
+        {
+          "ru": "{Доказать} невиновность НИП или {бороться за неё}",
+          "en": "{Prove} or {fight for} the innocence of an NPC"
+        }
+      ],
+      "quote": {
+        "ru": "В каждом существе можно найти добро.",
+        "en": "There's good to be found in every creature."
+      }
+    },
+    {
+      "id": "vv-c-13",
+      "kind": "challenge",
+      "number": 13,
+      "options": [
+        {
+          "ru": "{Сдать властям} или {продать} незаконный предмет",
+          "en": "{Turn in} or {sell} an illicit item"
+        },
+        {
+          "ru": "{Пожертвовать} или {украсть} чьё-то богатство",
+          "en": "{Sacrifice} or {steal} someone's wealth"
+        }
+      ],
+      "quote": {
+        "ru": "Пора применить мою „скидку пяти пальцев“!",
+        "en": "Time to use my five finger discount!"
+      }
+    },
+    {
+      "id": "vv-c-14",
+      "kind": "challenge",
+      "number": 14,
+      "options": [
+        {
+          "ru": "{Освободить} или {защитить} нуждающегося простолюдина",
+          "en": "{Free} or {defend} a commoner in need"
+        },
+        {
+          "ru": "{Склонить на свою сторону} или {победить} вражескую организацию",
+          "en": "{Win over} or {defeat} an enemy organization"
+        }
+      ],
+      "quote": {
+        "ru": "Меч может освободить одного, но верное слово способно освободить всех.",
+        "en": "A sword might free one person, but the right word could free them all."
+      }
+    },
+    {
+      "id": "vv-c-15",
+      "kind": "challenge",
+      "number": 15,
+      "options": [
+        {
+          "ru": "{Даровать благословение} или {наслать проклятие} на {врага} или {союзника}",
+          "en": "Bestow a {blessing} or {curse} upon a {foe} or {ally}"
+        },
+        {
+          "ru": "{Расположить к себе} или {предать} {НИП} или {врага}",
+          "en": "{Befriend} or {betray} an {NPC} or {enemy}"
+        }
+      ],
+      "quote": {
+        "ru": "Пусть твои стрелы всегда попадают в цель.",
+        "en": "May your arrows always strike their mark."
+      }
+    },
+    {
+      "id": "vv-c-16",
+      "kind": "challenge",
+      "number": 16,
+      "options": [
+        {
+          "ru": "Отдать свою {добычу} или {сведения}",
+          "en": "Give away your {loot} or {information}"
+        },
+        {
+          "ru": "Обезвредить врага с помощью {слов} или {несмертельной силы}",
+          "en": "Use {talk} or {non-lethal force} to disable a foe"
+        }
+      ],
+      "quote": {
+        "ru": "Доброта способна открывать двери и без ключа.",
+        "en": "Kindness can unlock doors without needing the key."
+      }
+    },
+    {
+      "id": "vv-c-17",
+      "kind": "challenge",
+      "number": 17,
+      "options": [
+        {
+          "ru": "{Поделиться} или {обменяться} ключевыми сведениями с союзником",
+          "en": "{Share} or {trade} crucial information with an ally"
+        },
+        {
+          "ru": "{Уничтожить} или {сберечь} чужой предмет",
+          "en": "{Destroy} or {safeguard} someone else's item"
+        }
+      ],
+      "quote": {
+        "ru": "Чтобы взять меч, нужна храбрость. Чтобы сложить его, нужна ещё большая.",
+        "en": "It takes courage to wield a sword. It takes greater courage to lay it down."
+      }
+    },
+    {
+      "id": "vv-c-18",
+      "kind": "challenge",
+      "number": 18,
+      "options": [
+        {
+          "ru": "Добиться успеха через {порок} или {добродетель}",
+          "en": "Achieve success through {vice} or {virtue}"
+        },
+        {
+          "ru": "Добиться успеха с помощью {света} или {тьмы}",
+          "en": "Achieve success using {light} or {darkness}"
+        }
+      ],
+      "quote": {
+        "ru": "Не убоюсь я зла.",
+        "en": "I will fear no evil."
+      }
+    },
+    {
+      "id": "vv-c-19",
+      "kind": "challenge",
+      "number": 19,
+      "options": [
+        {
+          "ru": "Заключить {союз} или {договор} с врагом",
+          "en": "Make an {alliance} or {pact} with an enemy"
+        },
+        {
+          "ru": "{Укрыть} или {выдать} разыскиваемого преступника",
+          "en": "{Shelter} or {turn in} a wanted criminal"
+        }
+      ],
+      "quote": {
+        "ru": "Значит, ты присягаешь на верность Культу Семи Ключей?",
+        "en": "So you pledge your allegiance to the Cult of the Seven Keys?"
+      }
+    },
+    {
+      "id": "vv-c-20",
+      "kind": "challenge",
+      "number": 20,
+      "options": [
+        {
+          "ru": "Избежать конфликта с помощью {чести} или {угроз}",
+          "en": "Avoid a conflict using {honor} or {threats}"
+        },
+        {
+          "ru": "Проявить {милосердие} или {жестокость} к раненому врагу",
+          "en": "Show {mercy} or {cruelty} to an injured foe"
+        }
+      ],
+      "quote": {
+        "ru": "Сложите оружие, дабы не пал на вас мой гнев.",
+        "en": "Lay down your arms, lest my wrath be called upon thee."
+      }
+    },
+    {
+      "id": "vv-c-21",
+      "kind": "challenge",
+      "number": 21,
+      "options": [
+        {
+          "ru": "Достичь цели с помощью {шантажа} или {торга}",
+          "en": "Achieve a goal using {blackmail} or {bargaining}"
+        },
+        {
+          "ru": "{Изгнать} или {простить} НИП, обидевшего вас",
+          "en": "{Banish} or {forgive} an NPC who wronged you"
+        }
+      ],
+      "quote": {
+        "ru": "Прощение омывает берега ненависти дочиста.",
+        "en": "Forgiveness washes clean the shores of hate."
+      }
+    },
+    {
+      "id": "vv-c-22",
+      "kind": "challenge",
+      "number": 22,
+      "options": [
+        {
+          "ru": "Проникнуть внутрь с помощью {взятки} или {репутации}",
+          "en": "Gain entry using {bribery} or {reputation}"
+        },
+        {
+          "ru": "Искупить наследие {союзника} или {врага}",
+          "en": "Redeem the legacy of an {ally} or {enemy}"
+        }
+      ],
+      "quote": {
+        "ru": "Я буду ждать тебя с приходом рассвета.",
+        "en": "I'll be waiting for you, at the coming of dawn."
+      }
+    },
+    {
+      "id": "vv-c-23",
+      "kind": "challenge",
+      "number": 23,
+      "options": [
+        {
+          "ru": "{Заняться} незаконной деятельностью или {пресечь} её",
+          "en": "{Indulge in} or {prevent} an illegal activity"
+        },
+        {
+          "ru": "{Бежать от} или {восстать против} правительства",
+          "en": "{Escape from} or {rebel against} the government"
+        }
+      ],
+      "quote": {
+        "ru": "Восстаньте! Пробудитесь, братья и сёстры мои!",
+        "en": "Rise! Wake now, my brothers and sisters!"
+      }
+    },
+    {
+      "id": "vv-c-24",
+      "kind": "challenge",
+      "number": 24,
+      "options": [
+        {
+          "ru": "Убедить НИП с помощью {суждения} или {молитвы}",
+          "en": "Convince an NPC using {judgement} or {prayer}"
+        },
+        {
+          "ru": "Убить врага с помощью {обряда} или {проклятия}",
+          "en": "Kill an enemy using {a rite} or {a curse}"
+        }
+      ],
+      "quote": {
+        "ru": "Пусть лезвия травы под вашими ногами режут так, как подсказывает их название.",
+        "en": "May the blades of grass beneath your feet cut as their namesake suggests."
+      }
+    },
+    {
+      "id": "vv-c-25",
+      "kind": "challenge",
+      "number": 25,
+      "options": [
+        {
+          "ru": "Восстановить справедливость во имя {божества} или {исчадия}",
+          "en": "Right a wrong in the name of a {deity} or {fiend}"
+        },
+        {
+          "ru": "{Присвоить себе заслугу} или {взять на себя ответственность} за чужие поступки",
+          "en": "{Take credit} or {responsibility} for the actions of others"
+        }
+      ],
+      "quote": {
+        "ru": "Идите дальше без меня. Задание нельзя бросать!",
+        "en": "Go on without me. The quest can not be forsaken!"
+      }
+    },
+    {
+      "id": "vv-r-01",
+      "kind": "reward",
+      "number": 1,
+      "options": [
+        {
+          "ru": "Ваши {хиты} или {ячейки заклинаний} полностью восстанавливаются",
+          "en": "Your {life total} or {spell slots} are fully restored",
+          "tag": "play"
+        },
+        {
+          "ru": "Автоматически преуспейте в {броске атаки} или {спасброске}",
+          "en": "Automatically succeed at an {attack} or {saving throw}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "В моих жилах течёт кровь героя.",
+        "en": "The blood of a hero flows through my veins."
+      }
+    },
+    {
+      "id": "vv-r-02",
+      "kind": "reward",
+      "number": 2,
+      "options": [
+        {
+          "ru": "Бросьте дважды и выберите лучший результат для {броска атаки} или {проверки навыка}",
+          "en": "Roll twice. Choose the best result for your {attack} or {skill check}",
+          "tag": "play"
+        },
+        {
+          "ru": "Поменяйтесь результатом инициативы с {монстром} или {членом отряда}",
+          "en": "Swap initiative result with a {monster} or {party member}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Всегда на шаг впереди противника.",
+        "en": "Always one step ahead of the opposition."
+      }
+    },
+    {
+      "id": "vv-r-03",
+      "kind": "reward",
+      "number": 3,
+      "options": [
+        {
+          "ru": "Вы получаете {зелье лечения} или {яд}",
+          "en": "You receive a {potion of healing} or {poison}",
+          "tag": "story"
+        },
+        {
+          "ru": "Вы обретаете местную {славу} или {дурную славу}",
+          "en": "You earn local {fame} or {notoriety}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Твоя репутация следует за тобой, как стая волков.",
+        "en": "Your reputation follows you like a pack of wolves."
+      }
+    },
+    {
+      "id": "vv-r-04",
+      "kind": "reward",
+      "number": 4,
+      "options": [
+        {
+          "ru": "Вы получаете ключ от {таверны} или {ратуши}",
+          "en": "You receive a key to the {tavern} or {town hall}",
+          "tag": "story"
+        },
+        {
+          "ru": "Перебросьте {проверку навыка} или {бросок атаки} врага",
+          "en": "Reroll the {skill check} or {attack} of an enemy",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Теперь всё наоборот, друг мой!",
+        "en": "The tables have turned, my friend!"
+      }
+    },
+    {
+      "id": "vv-r-05",
+      "kind": "reward",
+      "number": 5,
+      "options": [
+        {
+          "ru": "Удвойте свою проверку {Ловкости} или {Силы}",
+          "en": "Double your {dexterity} or {strength} check",
+          "tag": "play"
+        },
+        {
+          "ru": "Местные жители предлагают вам бесплатные {ресурсы} или {защиту}",
+          "en": "Locals offer you free {resources} or {protection}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Входите, укройтесь. Мой дом, может, и невелик, но, клянусь, моё сердце больше.",
+        "en": "Come in, take shelter. My home may not be big, but I promise my heart is."
+      }
+    },
+    {
+      "id": "vv-r-06",
+      "kind": "reward",
+      "number": 6,
+      "options": [
+        {
+          "ru": "Бросьте дважды и выберите лучший результат для {броска атаки} или {проверки навыка}",
+          "en": "Roll 2 times. Pick the best result for your {attack} or {skill check}",
+          "tag": "play"
+        },
+        {
+          "ru": "Поменяйтесь результатом броска кости с {монстром} или {членом отряда}",
+          "en": "Swap a die roll result with a {monster} or {party member}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Могуча древняя магия моего племени.",
+        "en": "Powerful is the ancient magic of my tribe."
+      }
+    },
+    {
+      "id": "vv-r-07",
+      "kind": "reward",
+      "number": 7,
+      "options": [
+        {
+          "ru": "НИП начинает относиться к вам со {страхом} или {уважением}",
+          "en": "An NPC comes to regard you with {fear} or {respect}",
+          "tag": "story"
+        },
+        {
+          "ru": "Влиятельная гильдия предлагает вам {услугу} или {членство}",
+          "en": "An important guild offers you a {service} or {membership}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Впечатляет! Чем мы можем вам служить?",
+        "en": "Impressive! How can we be of service?"
+      }
+    },
+    {
+      "id": "vv-r-08",
+      "kind": "reward",
+      "number": 8,
+      "options": [
+        {
+          "ru": "Поменяйтесь с монстром показателями {атаки} или {КД} на один раунд",
+          "en": "Swap {attack} or {armor} stats with a monster for one round",
+          "tag": "play"
+        },
+        {
+          "ru": "Вы получаете двойные {очки опыта} или {золотые монеты}",
+          "en": "You receive double {XP} or {gold coins}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Не всё то золото, что блестит.",
+        "en": "All that glitters is not gold."
+      }
+    },
+    {
+      "id": "vv-r-09",
+      "kind": "reward",
+      "number": 9,
+      "options": [
+        {
+          "ru": "Перебросьте проваленный спасбросок, чтобы {обнаружить, обезвредить} ловушку или {выбраться} из неё",
+          "en": "Reroll a failed save to {detect, disarm} or {escape} a trap",
+          "tag": "play"
+        },
+        {
+          "ru": "Один раз автоматически преуспейте во {взломе замков} или в {Убеждении}",
+          "en": "Automatically succeed at {lockpicking} or {persuasion} once",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Инструменты не заменят великого мастерства.",
+        "en": "Tools are no substitute for great skill."
+      }
+    },
+    {
+      "id": "vv-r-10",
+      "kind": "reward",
+      "number": 10,
+      "options": [
+        {
+          "ru": "Автоматически преуспейте в проверке {Внимательности} или {Ловкости}",
+          "en": "Automatically succeed at a {perception} or {dexterity} check",
+          "tag": "play"
+        },
+        {
+          "ru": "Перебросьте проваленную проверку {Силы} или {Телосложения}",
+          "en": "Reroll a failed {strength} or {constitution} check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Магия этих земель — мой союзник.",
+        "en": "The magic of the realm is my ally."
+      }
+    },
+    {
+      "id": "vv-r-11",
+      "kind": "reward",
+      "number": 11,
+      "options": [
+        {
+          "ru": "Игнорируйте последствия нужды в {пище} или {отдыхе} в течение одного дня",
+          "en": "Ignore the effects of needing {food} or {rest} for one day",
+          "tag": "play"
+        },
+        {
+          "ru": "Поменяйтесь Силой с {членом отряда} или {НИП} на один час",
+          "en": "Swap strength with a {party member} or {NPC} for one hour",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Выносливость — это сила разума.",
+        "en": "Endurance is the strength of the mind."
+      }
+    },
+    {
+      "id": "vv-r-12",
+      "kind": "reward",
+      "number": 12,
+      "options": [
+        {
+          "ru": "Получите {почётный титул} или {место в правительстве} за свои героические деяния",
+          "en": "Obtain an {honorary title} or {seat in the government} for your heroic deeds",
+          "tag": "story"
+        },
+        {
+          "ru": "Получите {уважение} или {помощь} простолюдинов",
+          "en": "Gain the {respect} or {help} of the commoners",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Ваши героические деяния не останутся незамеченными.",
+        "en": "Your heroic deeds will not go unnoticed."
+      }
+    },
+    {
+      "id": "vv-r-13",
+      "kind": "reward",
+      "number": 13,
+      "options": [
+        {
+          "ru": "Получите иммунитет к {очарованию} или {иллюзиям} на одну минуту",
+          "en": "Gain immunity to {charm} or {illusion} for one minute",
+          "tag": "play"
+        },
+        {
+          "ru": "Удвойте результат своего броска {атаки} или {урона}",
+          "en": "Double the result of your {attack} or {damage} die roll",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Да защитит и направит меня Рогатый.",
+        "en": "May the horned one protect and guide me."
+      }
+    },
+    {
+      "id": "vv-r-14",
+      "kind": "reward",
+      "number": 14,
+      "options": [
+        {
+          "ru": "Вы узнаёте {слабость} или {местонахождение} врага",
+          "en": "You learn the {weakness} or {location} of an enemy",
+          "tag": "story"
+        },
+        {
+          "ru": "Игнорируйте действие {яда} или {болезни} в течение одного часа",
+          "en": "Ignore the effects of {poison} or {disease} for one hour",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Это не тёмная магия. Это умение слушать, что говорит нам природа.",
+        "en": "It's not dark magic. It's knowing what nature tells us."
+      }
+    },
+    {
+      "id": "vv-r-15",
+      "kind": "reward",
+      "number": 15,
+      "options": [
+        {
+          "ru": "Вы получаете карту к месту, где находится важный {НИП} или {предмет}",
+          "en": "You receive a map to the location of an important {NPC} or {item}",
+          "tag": "story"
+        },
+        {
+          "ru": "Вы получаете помощь {проводника} или {наёмника} на два дня",
+          "en": "You receive the help of a {guide} or {mercenary} for two days",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Карта сокровищ — это здорово. Проводник — лучше.",
+        "en": "A treasure map is great. A guide is better."
+      }
+    },
+    {
+      "id": "vv-r-16",
+      "kind": "reward",
+      "number": 16,
+      "options": [
+        {
+          "ru": "Нейтрализуйте действие {опьянения} или {яда} на один день",
+          "en": "Negate the effects of {intoxication} or {poison} for one day",
+          "tag": "play"
+        },
+        {
+          "ru": "Вы получаете драгоценную бочку {вина} или {эля}",
+          "en": "You receive a prized cask of {wine} or {ale}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Как ты смеешь говорить, что дварфийское вино на вкус мерзкое?",
+        "en": "How dare you say dwarven wine tastes foul?"
+      }
+    },
+    {
+      "id": "vv-r-17",
+      "kind": "reward",
+      "number": 17,
+      "options": [
+        {
+          "ru": "Вы получаете помощь, чтобы {скрываться} или {добраться до важного места}",
+          "en": "You receive help to {stay hidden} or {reach an important location}",
+          "tag": "story"
+        },
+        {
+          "ru": "Вы завоёвываете доверие важного {НИП} или {организации}",
+          "en": "You gain the trust of an important {NPC} or {organization}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Садись, друг мой, расскажи мне больше…",
+        "en": "Sit down my friend, tell me more..."
+      }
+    },
+    {
+      "id": "vv-r-18",
+      "kind": "reward",
+      "number": 18,
+      "options": [
+        {
+          "ru": "Получите иммунитет к состоянию {очарован} или {испуган} на один час",
+          "en": "Gain immunity to being {charmed} or {frightened} for one hour",
+          "tag": "play"
+        },
+        {
+          "ru": "Вам жалуют {здание} или {участок земли}",
+          "en": "You are awarded with a {building} or {piece of land}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Твоё красноречие на меня не подействует, дьявол.",
+        "en": "Your silver tongue won't work on me, devil."
+      }
+    },
+    {
+      "id": "vv-r-19",
+      "kind": "reward",
+      "number": 19,
+      "options": [
+        {
+          "ru": "Вы получаете случайный {магический предмет}, подходящий вашему уровню",
+          "en": "You acquire a random {magic item} suitable to your level",
+          "tag": "story"
+        },
+        {
+          "ru": "Удвойте результат своего броска {лечения} или {заклинания}",
+          "en": "Double your {healing} or {spell} roll result",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Молот задрожал в её хватке, а по жилам пробежала молния.",
+        "en": "The hammer trembled in her grasp, lightning coursing through her veins."
+      }
+    },
+    {
+      "id": "vv-r-20",
+      "kind": "reward",
+      "number": 20,
+      "options": [
+        {
+          "ru": "Вы можете сотворить ещё одно {заклинание} или совершить ещё одну {атаку}",
+          "en": "You can perform one extra {spell} or {attack}",
+          "tag": "play"
+        },
+        {
+          "ru": "Восстановите все {свои} хиты или хиты {члена отряда}",
+          "en": "Recover {your own} or a {party members'} full hit points",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "У желатинового куба тоже есть чувства. Попробуйте меня переубедить!",
+        "en": "A gelatinous cube has feelings too. Change my mind!"
+      }
+    },
+    {
+      "id": "vv-r-21",
+      "kind": "reward",
+      "number": 21,
+      "options": [
+        {
+          "ru": "Бросьте дважды и выберите лучший результат для {броска атаки} или {проверки навыка}",
+          "en": "Roll twice. Choose the best result for your {attack} or {skill} roll",
+          "tag": "play"
+        },
+        {
+          "ru": "Игнорируйте последствия потери {концентрации} или {равновесия}",
+          "en": "Ignore the effects of losing {concentration} or {balance}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Ничто не поколеблет мою решимость.",
+        "en": "Nothing can shake my resolve."
+      }
+    },
+    {
+      "id": "vv-r-22",
+      "kind": "reward",
+      "number": 22,
+      "options": [
+        {
+          "ru": "Вы получаете ценную {зацепку} или {предмет}, связанные с вашим заданием",
+          "en": "You acquire a valuable {clue} or {item} related to your quest",
+          "tag": "story"
+        },
+        {
+          "ru": "Вы узнаёте {ценность} предмета, которым владеете, или {правду} о нём",
+          "en": "You learn the {value of} or {truth about} an item you possess",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Линза опыта даёт ясное зрение.",
+        "en": "The lens of experience offers clear vision."
+      }
+    },
+    {
+      "id": "vv-r-23",
+      "kind": "reward",
+      "number": 23,
+      "options": [
+        {
+          "ru": "Один раз нейтрализуйте действие {смерти} или {магии}",
+          "en": "Negate the effect of {death} or {magic} once",
+          "tag": "play"
+        },
+        {
+          "ru": "Поменяйтесь местами с {монстром, НИП} или {членом отряда}",
+          "en": "Swap locations with a {monster, NPC} or {party member}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Что это за мерзкое колдовство?",
+        "en": "What is this foul sorcery?"
+      }
+    },
+    {
+      "id": "vv-r-24",
+      "kind": "reward",
+      "number": 24,
+      "options": [
+        {
+          "ru": "Один раз автоматически преуспейте в {краже} или {взломе замков}",
+          "en": "Automatically succeed at {stealing} or {lockpicking} once",
+          "tag": "play"
+        },
+        {
+          "ru": "Вы получаете {двойное сокровище} или {важные сведения} о вашем задании",
+          "en": "You are rewarded {double treasure} or {crucial information} regarding your quest",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Мир принадлежит мне.",
+        "en": "The world belongs to me."
+      }
+    },
+    {
+      "id": "vv-r-25",
+      "kind": "reward",
+      "number": 25,
+      "options": [
+        {
+          "ru": "Игнорируйте последствия {дезориентации} или {очарования} в течение одного дня",
+          "en": "Ignore the effects of {disorientation} or {charm} for one day",
+          "tag": "play"
+        },
+        {
+          "ru": "Игнорируйте последствия {жары} или {высоты} в течение одного дня",
+          "en": "Ignore the effects of {heat} or {altitude} for one day",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Пусть ваши ноги никогда не устают, а решимость никогда не слабеет.",
+        "en": "May your legs never tire, and your resolve never stray."
+      }
+    }
+  ]
+}

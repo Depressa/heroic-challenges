@@ -1,0 +1,382 @@
+{
+  "set": "bonus",
+  "title": "Бонусные вызовы",
+  "source": "Heroic Challenges — Bonus Challenges (2020). Только для личного использования.",
+  "cards": [
+    {
+      "id": "bonus-c-01",
+      "kind": "challenge",
+      "number": 1,
+      "options": [
+        {
+          "ru": "Раскрыть тайну с помощью специальных {инструментов} или {знаний}",
+          "en": "Discover a secret using specialist {tools} or {knowledge}"
+        },
+        {
+          "ru": "{Взломать} или {выломать} запертую {дверь} или {сундук}",
+          "en": "{Pick} or {force} a locked {door} or {chest}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-02",
+      "kind": "challenge",
+      "number": 2,
+      "options": [
+        {
+          "ru": "Убить {двух} или {более} монстров за один ход",
+          "en": "Kill {two} or {more} monsters in a single turn"
+        },
+        {
+          "ru": "{Подкупить} или {обмануть} существо-стража",
+          "en": "{Bribe} or {deceive} a guardian creature"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-03",
+      "kind": "challenge",
+      "number": 3,
+      "options": [
+        {
+          "ru": "Решить {загадку} или {головоломку} без посторонней помощи",
+          "en": "Solve a {riddle} or {puzzle} without help"
+        },
+        {
+          "ru": "Обратить себе на пользу {архитектуру} или {опасности}",
+          "en": "Use {architecture} or {hazards} to your advantage"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-04",
+      "kind": "challenge",
+      "number": 4,
+      "options": [
+        {
+          "ru": "Применить {ядовитое} или {лекарственное} растение",
+          "en": "Utilize a {poisonous} or {medicinal} plant"
+        },
+        {
+          "ru": "{Обнаружить} или {обезвредить} {опасность} или {ловушку}",
+          "en": "{Detect} or {neutralize} a {hazard} or {trap}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-05",
+      "kind": "challenge",
+      "number": 5,
+      "options": [
+        {
+          "ru": "{Разделить} или {объединить} отряд",
+          "en": "{Split} or {unite} the party"
+        },
+        {
+          "ru": "{Нарушить} или {заключить} {сделку}, {сломать} или {выковать} {оружие}",
+          "en": "{Break} or {forge} a {deal} or {weapon}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-06",
+      "kind": "challenge",
+      "number": 6,
+      "options": [
+        {
+          "ru": "{Отвлечь} или {раздразнить} смертоносного монстра",
+          "en": "{Distract} or {taunt} a deadly monster"
+        },
+        {
+          "ru": "Вспомнить важную {подсказку} или {контакт}",
+          "en": "Remember an important {clue} or {contact}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-07",
+      "kind": "challenge",
+      "number": 7,
+      "options": [
+        {
+          "ru": "Убить врага до того, как он войдёт {в комнату} или {в пределы вашей досягаемости}",
+          "en": "Kill a foe before they enter {a room} or {your reach}"
+        },
+        {
+          "ru": "{Собрать} или {уничтожить} магическое устройство",
+          "en": "{Construct} or {destroy} a magical device"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-08",
+      "kind": "challenge",
+      "number": 8,
+      "options": [
+        {
+          "ru": "Победить врага {изготовленным} или {импровизированным} оружием",
+          "en": "Defeat a foe with a {crafted} or {improvised} weapon"
+        },
+        {
+          "ru": "Преодолеть препятствие, полагаясь только на {разум} или {грубую силу}",
+          "en": "Overcome an obstacle using only your {mind} or {muscle}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-09",
+      "kind": "challenge",
+      "number": 9,
+      "options": [
+        {
+          "ru": "{Привести в чувство} или {воскресить} союзника",
+          "en": "Restore an ally from {unconsciousness} or {death}"
+        },
+        {
+          "ru": "Излечить НИП от {яда} или {болезни}",
+          "en": "Cure a {poison} or {disease} in an {NPC}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-10",
+      "kind": "challenge",
+      "number": 10,
+      "options": [
+        {
+          "ru": "Снять недуг с помощью {магии} или {медицины}",
+          "en": "Remove an ailment using {magic} or {medicine}"
+        },
+        {
+          "ru": "Улучшить навык с помощью {тренировок} или {магии}",
+          "en": "Improve a skill through {training} or {magic}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-11",
+      "kind": "challenge",
+      "number": 11,
+      "options": [
+        {
+          "ru": "Создать {ложную улику} или {маскировку}",
+          "en": "Create a {false clue} or {disguise}"
+        },
+        {
+          "ru": "Устроить {празднование} или {фестиваль} вместе с союзниками",
+          "en": "Throw a {celebration} or {festival} with your allies"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-12",
+      "kind": "challenge",
+      "number": 12,
+      "options": [
+        {
+          "ru": "Проникнуть в учреждение с помощью {умения} или {обмана}",
+          "en": "Gain entrance to an institution through {skill} or {deception}"
+        },
+        {
+          "ru": "Воздать почести предкам {в бою} или {в ритуале}",
+          "en": "Pay homage to your ancestors in {battle} or {a ritual}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-13",
+      "kind": "challenge",
+      "number": 13,
+      "options": [
+        {
+          "ru": "Преодолеть состояние {ошеломления} или {паралича}",
+          "en": "Overcome being {stunned} or {paralyzed}"
+        },
+        {
+          "ru": "Противостоять {тирану} или {монстру} вопреки всем шансам",
+          "en": "Oppose a {tyrant} or {monster} against the odds"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-14",
+      "kind": "challenge",
+      "number": 14,
+      "options": [
+        {
+          "ru": "Уничтожить существо из другого {плана} или {мира}",
+          "en": "Destroy a creature from another {plane} or {world}"
+        },
+        {
+          "ru": "Заслужить одобрение {двора} или {банды}",
+          "en": "Gain the approval of a {court} or {gang}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-15",
+      "kind": "challenge",
+      "number": 15,
+      "options": [
+        {
+          "ru": "Выиграть бой, используя только {ближние} или {дальние} атаки",
+          "en": "Win a fight using only {melee} or {ranged} attacks"
+        },
+        {
+          "ru": "Выиграть бой, используя только {оружие} или {магию}",
+          "en": "Win a fight using only {weapons} or {magic}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-16",
+      "kind": "challenge",
+      "number": 16,
+      "options": [
+        {
+          "ru": "Вернуть с помощью магии утраченную {конечность} или {память}",
+          "en": "Use magic to restore a lost {limb} or {memory}"
+        },
+        {
+          "ru": "{Подкрасться} к врагу или {запугать} его",
+          "en": "{Sneak up on} or {intimidate} a foe"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-17",
+      "kind": "challenge",
+      "number": 17,
+      "options": [
+        {
+          "ru": "{Избежать} или {парировать} смертельный {удар} или {заклинание}",
+          "en": "{Dodge} or {parry} a lethal {strike} or {spell}"
+        },
+        {
+          "ru": "Дать {сопротивление} или {уязвимость} к урону",
+          "en": "Give {resistance} or {vulnerability} to damage"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-18",
+      "kind": "challenge",
+      "number": 18,
+      "options": [
+        {
+          "ru": "Выиграть {верховой} или {подводный} бой",
+          "en": "Win a {mounted} or {underwater} combat"
+        },
+        {
+          "ru": "Излечить союзника от {безумия} или {проклятия}",
+          "en": "Cure {madness} or {a curse} in an ally"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-19",
+      "kind": "challenge",
+      "number": 19,
+      "options": [
+        {
+          "ru": "Побывать в другой {стране}, {мире} или {плане}",
+          "en": "Visit another {country}, {world}, or {plane}"
+        },
+        {
+          "ru": "Вырваться из захвата с помощью {проворства} или {силы}",
+          "en": "Escape a grapple using {agility} or {strength}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-20",
+      "kind": "challenge",
+      "number": 20,
+      "options": [
+        {
+          "ru": "Пройти через {гигантскую паутину} или {смертоносную плесень}",
+          "en": "Navigate through {giant webs} or {deadly mold}"
+        },
+        {
+          "ru": "Использовать {телепортацию} или {трансмутацию}, чтобы победить врага",
+          "en": "Utilize {teleportation} or {transmutation} to defeat a foe"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-21",
+      "kind": "challenge",
+      "number": 21,
+      "options": [
+        {
+          "ru": "Защитить союзника от урона с помощью {магии} или {манёвра}",
+          "en": "Protect an ally from damage using {magic} or {a maneuver}"
+        },
+        {
+          "ru": "{Обездвижить} или {поднять} существо во время боя",
+          "en": "{Immobilise} or {elevate} a creature during a fight"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-22",
+      "kind": "challenge",
+      "number": 22,
+      "options": [
+        {
+          "ru": "Убить существо {провоцированной атакой} или {эффектом с областью действия}",
+          "en": "Kill a creature with an {opportunity attack} or {area of effect}"
+        },
+        {
+          "ru": "{Взобраться на} большое существо или {протиснуться мимо} него",
+          "en": "{Climb onto} or {shove past} a large creature"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-23",
+      "kind": "challenge",
+      "number": 23,
+      "options": [
+        {
+          "ru": "Победить существо, которое ранее {застигло вас врасплох} или {ошеломило} вас",
+          "en": "Defeat a creature that {surprised} or {stunned} you earlier"
+        },
+        {
+          "ru": "Использовать время простоя для {ремесла} или {исследований}",
+          "en": "Use downtime to {craft} or {research}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-24",
+      "kind": "challenge",
+      "number": 24,
+      "options": [
+        {
+          "ru": "{Устранить} или {утолить} {голод} или {жажду} союзника",
+          "en": "{Remove} or {satiate} an ally's {hunger} or {thirst}"
+        },
+        {
+          "ru": "Победить врага {в прыжке} или {ползком}",
+          "en": "Defeat a foe while {jumping} or {crawling}"
+        }
+      ]
+    },
+    {
+      "id": "bonus-c-25",
+      "kind": "challenge",
+      "number": 25,
+      "options": [
+        {
+          "ru": "Преуспеть в групповой {проверке} или {спасброске}",
+          "en": "Succeed on a group {check} or {saving throw}"
+        },
+        {
+          "ru": "Выиграть погоню, используя {транспорт} или {верховое животное}",
+          "en": "Win a chase using {vehicle} or {mount}"
+        }
+      ]
+    }
+  ]
+}

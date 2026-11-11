@@ -1,0 +1,22 @@
+<div class="heroic-card hc-{{kind}}">
+  <h3 class="hc-title">{{title}}</h3>
+  {{#each lines}}<p class="hc-line">{{this}}</p>{{/each}}
+  {{#if missing}}
+  <p class="hc-note">{{localize "HEROIC.Chat.Missing"}}</p>
+  {{else}}
+  {{> hcFace face}}
+  {{/if}}
+  {{#if status}}<p class="hc-status">{{status}}</p>{{/if}}
+  {{#if itemLine}}<p class="hc-item">{{{itemLine}}}</p>{{/if}}
+  {{#if note}}<p class="hc-note">{{note}}</p>{{/if}}
+  {{#if buttons.length}}
+  <div class="hc-actions">
+    {{#each buttons}}<button type="button"{{#if choose}} class="hc-choose"{{/if}} data-hc-action="{{action}}" data-hc-value="{{value}}">{{label}}</button>{{/each}}
+  </div>
+  {{/if}}
+  {{#if reviseButtons.length}}
+  <div class="hc-actions hc-revise" hidden>
+    {{#each reviseButtons}}<button type="button"{{#if choose}} class="hc-choose"{{/if}} data-hc-action="{{action}}" data-hc-value="{{value}}">{{label}}</button>{{/each}}
+  </div>
+  {{/if}}
+</div>

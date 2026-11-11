@@ -1,0 +1,2007 @@
+{
+  "set": "core",
+  "title": "Основной набор",
+  "source": "Heroic Challenges — Core Set (2020). Только для личного использования.",
+  "cards": [
+    {
+      "id": "core-c-01",
+      "kind": "challenge",
+      "number": 1,
+      "options": [
+        {
+          "ru": "{Вырубить} или {убить} врага голыми руками",
+          "en": "{Knockout} or {kill} an enemy barehanded"
+        },
+        {
+          "ru": "{Взять в руки} или {смастерить} подручное оружие",
+          "en": "{Wield} or {craft} an improvised weapon"
+        }
+      ],
+      "quote": {
+        "ru": "Оружие? Кому оно нужно?",
+        "en": "Weapons? Who needs 'em?"
+      }
+    },
+    {
+      "id": "core-c-02",
+      "kind": "challenge",
+      "number": 2,
+      "options": [
+        {
+          "ru": "{Ускользнуть от} или {обмануть} смерть с помощью {магии} или {мудрости}",
+          "en": "{Escape} or {cheat} death using {magic} or {wisdom}"
+        },
+        {
+          "ru": "{Почтить} или {изучить} останки гуманоида",
+          "en": "{Honor} or {analyze} humanoid remains"
+        }
+      ],
+      "quote": {
+        "ru": "Ценность жизни познаёшь по-настоящему лишь тогда, когда её теряешь.",
+        "en": "The value of life is most appreciated once it's lost."
+      }
+    },
+    {
+      "id": "core-c-03",
+      "kind": "challenge",
+      "number": 3,
+      "options": [
+        {
+          "ru": "{Замаскироваться} или {преобразиться}, чтобы остаться незамеченным",
+          "en": "{Disguise} or {transform} yourself to go unseen"
+        },
+        {
+          "ru": "{Обмануть} или {развлечь}, чтобы завоевать чьё-то доверие",
+          "en": "{Deceive} or {entertain} to gain someone's trust"
+        }
+      ],
+      "quote": {
+        "ru": "Не суди о книге по обложке.",
+        "en": "Don't judge a book by its cover."
+      }
+    },
+    {
+      "id": "core-c-04",
+      "kind": "challenge",
+      "number": 4,
+      "options": [
+        {
+          "ru": "{Защитить} или {создать} постоянное убежище",
+          "en": "{Defend} or {create} a permanent sanctuary"
+        },
+        {
+          "ru": "{Спастись из} или {использовать} магическое место",
+          "en": "{Escape} or {utilize} a magical location"
+        }
+      ],
+      "quote": {
+        "ru": "Магия течёт по земле, как кровь по нашим жилам.",
+        "en": "Magic runs through the earth like blood through our veins."
+      }
+    },
+    {
+      "id": "core-c-05",
+      "kind": "challenge",
+      "number": 5,
+      "options": [
+        {
+          "ru": "{Скрыть} или {обнаружить} потайной ход",
+          "en": "{Conceal} or {discover} a secret passage"
+        },
+        {
+          "ru": "{Застать врасплох} или {предупредить} некомбатанта",
+          "en": "{Surprise} or {warn} a non-combatant"
+        }
+      ],
+      "quote": {
+        "ru": "Неважно, какого размера клинок, если не видишь, откуда он прилетит.",
+        "en": "The size of a blade doesn't matter if you don't see it coming."
+      }
+    },
+    {
+      "id": "core-c-06",
+      "kind": "challenge",
+      "number": 6,
+      "options": [
+        {
+          "ru": "{Перехитрить} или {обогнать} агрессивного зверя",
+          "en": "{Outsmart} or {outrun} an aggressive beast"
+        },
+        {
+          "ru": "{Зарыться в землю} или {поплыть}, чтобы {спастись} или {победить} в бою",
+          "en": "{Burrow} or {swim} to {escape} or {win} a fight"
+        }
+      ],
+      "quote": {
+        "ru": "Порой победа — это остаться в живых, чтобы сразиться в другой день.",
+        "en": "Sometimes victory is living to fight another day."
+      }
+    },
+    {
+      "id": "core-c-07",
+      "kind": "challenge",
+      "number": 7,
+      "options": [
+        {
+          "ru": "{Пригрозить} или {обмануть} врага с помощью {насилия} или {иллюзии}",
+          "en": "{Threaten} or {trick} a foe using {violence} or {illusion}"
+        },
+        {
+          "ru": "{Защитить} или {предать} беспомощного человека",
+          "en": "{Protect} or {betray} a helpless individual"
+        }
+      ],
+      "quote": {
+        "ru": "Защищай тех, кто защищает тебя.",
+        "en": "Protect those who protect you."
+      }
+    },
+    {
+      "id": "core-c-08",
+      "kind": "challenge",
+      "number": 8,
+      "options": [
+        {
+          "ru": "{Торговать с} или {защитить} нуждающуюся общину",
+          "en": "{Trade with} or {defend} a community in need"
+        },
+        {
+          "ru": "{Устроить засаду на} или {проникнуть в} вражеский лагерь",
+          "en": "{Ambush} or {infiltrate} an enemy encampment"
+        }
+      ],
+      "quote": {
+        "ru": "Стена крепка лишь настолько, насколько крепок её слабейший камень.",
+        "en": "A wall is only as strong its weakest stone."
+      }
+    },
+    {
+      "id": "core-c-09",
+      "kind": "challenge",
+      "number": 9,
+      "options": [
+        {
+          "ru": "{Провести} или {предотвратить} потусторонний ритуал",
+          "en": "{Enact} or {prevent} an eldritch ritual"
+        },
+        {
+          "ru": "{Исцелить} или {приютить} нуждающегося {врага} или {союзника}",
+          "en": "{Heal} or {shelter} an {enemy} or {ally} in need"
+        }
+      ],
+      "quote": {
+        "ru": "Из пустоты оно пришло, и в пустоту оно должно вернуться.",
+        "en": "From the void it came, and to the void it must return."
+      }
+    },
+    {
+      "id": "core-c-10",
+      "kind": "challenge",
+      "number": 10,
+      "options": [
+        {
+          "ru": "{Раздобыть в дикой местности} или {украсть} жизненно важные припасы",
+          "en": "{Forage} or {steal} vital goods"
+        },
+        {
+          "ru": "Использовать {магию} или {скрытность}, чтобы шпионить за врагом",
+          "en": "Use {magic} or {stealth} to spy on an enemy"
+        }
+      ],
+      "quote": {
+        "ru": "Земля даёт всё необходимое, если знаешь, где искать.",
+        "en": "The land provides everything you need, if you know where to look."
+      }
+    },
+    {
+      "id": "core-c-11",
+      "kind": "challenge",
+      "number": 11,
+      "options": [
+        {
+          "ru": "{Посоветоваться с} или {очаровать} влиятельным лицом",
+          "en": "{Consult} or {charm} a powerful individual"
+        },
+        {
+          "ru": "{Медитировать} или {исследовать}, чтобы обрести ценные озарения",
+          "en": "{Meditate} or {research} to gain valuable insights"
+        }
+      ],
+      "quote": {
+        "ru": "Нет ничего полезнее свежего взгляда.",
+        "en": "There is no perspective as useful as a fresh one."
+      }
+    },
+    {
+      "id": "core-c-12",
+      "kind": "challenge",
+      "number": 12,
+      "options": [
+        {
+          "ru": "{Преодолеть} или {нейтрализовать} суровую среду",
+          "en": "{Overcome} or {negate} a harsh environment"
+        },
+        {
+          "ru": "Помочь {члену отряда} или {НИП} защититься от холода",
+          "en": "Help a {party member} or {NPC} against the cold"
+        }
+      ],
+      "quote": {
+        "ru": "Ничто не обжигает так, как зимний холод.",
+        "en": "Nothing burns like the cold of winter."
+      }
+    },
+    {
+      "id": "core-c-13",
+      "kind": "challenge",
+      "number": 13,
+      "options": [
+        {
+          "ru": "{Изменить} или {вызвать} погодное явление",
+          "en": "{Change} or {create} a weather phenomenon"
+        },
+        {
+          "ru": "{Предотвратить} или {предсказать} {катастрофу} или {открытие}",
+          "en": "{Prevent} or {predict} a {disaster} or {discovery}"
+        }
+      ],
+      "quote": {
+        "ru": "Когда тучи разойдутся, откроется истина.",
+        "en": "When the clouds part, the truth will be revealed."
+      }
+    },
+    {
+      "id": "core-c-14",
+      "kind": "challenge",
+      "number": 14,
+      "options": [
+        {
+          "ru": "{Уничтожить} или {разоблачить} опасный культ",
+          "en": "{Eradicate} or {expose} a dangerous cult"
+        },
+        {
+          "ru": "Получить {навык} или {секрет} от {культа} или {НИП}",
+          "en": "Acquire a {skill} or {secret} from a {cult} or {NPC}"
+        }
+      ],
+      "quote": {
+        "ru": "Культ? Мы просто друзья, которые одинаково одеваются!",
+        "en": "Cult? We're just friends who dress the same!"
+      }
+    },
+    {
+      "id": "core-c-15",
+      "kind": "challenge",
+      "number": 15,
+      "options": [
+        {
+          "ru": "{Прокрасться мимо} или {ввести в заблуждение} {стража} или {монстра}",
+          "en": "{Sneak past} or {mislead} a {guard} or {monster}"
+        },
+        {
+          "ru": "Использовать {огонь} или {дым}, чтобы победить существо",
+          "en": "Use {fire} or {smoke} to defeat a creature"
+        }
+      ],
+      "quote": {
+        "ru": "Разведи огонь, который им никогда не потушить.",
+        "en": "Light a fire they can't ever put out."
+      }
+    },
+    {
+      "id": "core-c-16",
+      "kind": "challenge",
+      "number": 16,
+      "options": [
+        {
+          "ru": "{Обезвредить} или {обойти} {ловушку} или {монстра}",
+          "en": "{Disarm} or {circumvent} a {trap} or {monster}"
+        },
+        {
+          "ru": "{Сбежать из} или {проникнуть в} охраняемую комнату",
+          "en": "{Escape} or {break into} a guarded room"
+        }
+      ],
+      "quote": {
+        "ru": "Смотри внимательно, вот как это делается.",
+        "en": "Pay close attention now, this is how it's done."
+      }
+    },
+    {
+      "id": "core-c-17",
+      "kind": "challenge",
+      "number": 17,
+      "options": [
+        {
+          "ru": "{Изучить} или {изгнать} злого {бога} или {культ}",
+          "en": "{Research} or {banish} an evil {god} or {cult}"
+        },
+        {
+          "ru": "{Вернуть} или {улучшить} одну из своих способностей",
+          "en": "{Regain} or {improve} one of your abilities"
+        }
+      ],
+      "quote": {
+        "ru": "Испытания бывают разных форм и обличий, как и решения.",
+        "en": "Challenges come in many shapes and forms, just as solutions do."
+      }
+    },
+    {
+      "id": "core-c-18",
+      "kind": "challenge",
+      "number": 18,
+      "options": [
+        {
+          "ru": "{Пережить} или {распознать} {яд} или {болезнь}",
+          "en": "{Survive} or {detect} a {poison} or {disease}"
+        },
+        {
+          "ru": "{Изучить} или {украсть} новое алхимическое творение",
+          "en": "{Study} or {steal} a new alchemical creation"
+        }
+      ],
+      "quote": {
+        "ru": "Природа никогда не перестаёт удивлять и пугать меня.",
+        "en": "Nature never fails to surprise and scare me."
+      }
+    },
+    {
+      "id": "core-c-19",
+      "kind": "challenge",
+      "number": 19,
+      "options": [
+        {
+          "ru": "{Обогнать} или {замедлить} быстрого врага",
+          "en": "{Overtake} or {slow down} a fast enemy"
+        },
+        {
+          "ru": "Использовать одежду, чтобы {произвести впечатление} или {вызвать отвращение}",
+          "en": "Use clothing to {impress} or {disgust}"
+        }
+      ],
+      "quote": {
+        "ru": "В этих сапогах? Подумай ещё раз!",
+        "en": "With these boots? Think again!"
+      }
+    },
+    {
+      "id": "core-c-20",
+      "kind": "challenge",
+      "number": 20,
+      "options": [
+        {
+          "ru": "{Открыть} или {создать} новое {заклинание} или {стихотворение}",
+          "en": "{Discover} or {create} a new {spell} or {poem}"
+        },
+        {
+          "ru": "Заставить {монстра} или {НИП} {уснуть} или {убежать}",
+          "en": "Cause a {monster} or {NPC} to {fall asleep} or {run away}"
+        }
+      ],
+      "quote": {
+        "ru": "Чего не можешь вообразить, того не достигнешь.",
+        "en": "What you can't imagine, you can't achieve."
+      }
+    },
+    {
+      "id": "core-c-21",
+      "kind": "challenge",
+      "number": 21,
+      "options": [
+        {
+          "ru": "Создать уникальную новую {способность} или {приём}",
+          "en": "Create a unique new {ability} or {maneuver}"
+        },
+        {
+          "ru": "{Подарить} или {принять} чудесный дар",
+          "en": "{Give} or {accept} a wonderful gift"
+        }
+      ],
+      "quote": {
+        "ru": "Доброта — дар, который может подарить каждый.",
+        "en": "Kindness is a gift anyone can give."
+      }
+    },
+    {
+      "id": "core-c-22",
+      "kind": "challenge",
+      "number": 22,
+      "options": [
+        {
+          "ru": "{Обезвредить} или {уничтожить} опасный артефакт",
+          "en": "{Disarm} or {destroy} a dangerous artifact"
+        },
+        {
+          "ru": "{Наблюдать} или {расспрашивать}, оставаясь {незамеченным} или {неузнанным}",
+          "en": "{Observe} or {inquire} without being {seen} or {recognised}"
+        }
+      ],
+      "quote": {
+        "ru": "Он весь в черепах. Это ведь не к добру, да?",
+        "en": "It's covered in skulls. That can't be good, right?"
+      }
+    },
+    {
+      "id": "core-c-23",
+      "kind": "challenge",
+      "number": 23,
+      "options": [
+        {
+          "ru": "{Предать} союзника или {помочь} врагу",
+          "en": "{Betray} an ally or {aid} an enemy"
+        },
+        {
+          "ru": "{Отдать} или {украсть} {магический предмет}",
+          "en": "{Give away} or {steal} a {magical item}"
+        }
+      ],
+      "quote": {
+        "ru": "Ты хорошо мне служил, но пришло время обзавестись новым господином.",
+        "en": "You have served me well, but it is time for a new master."
+      }
+    },
+    {
+      "id": "core-c-24",
+      "kind": "challenge",
+      "number": 24,
+      "options": [
+        {
+          "ru": "{Передать} или {перехватить} важное сообщение",
+          "en": "{Convey} or {intercept} an important message"
+        },
+        {
+          "ru": "{Ввести в заблуждение} или {предупредить} кого-либо {письменно} или {устно}",
+          "en": "{Mislead} or {alert} someone in {writing} or {speech}"
+        }
+      ],
+      "quote": {
+        "ru": "Нет ничего обманчивее очевидного факта.",
+        "en": "There is nothing more deceptive than an obvious fact."
+      }
+    },
+    {
+      "id": "core-c-25",
+      "kind": "challenge",
+      "number": 25,
+      "options": [
+        {
+          "ru": "{Осветить} или {опознать} незримого врага",
+          "en": "{Illuminate} or {identify} an unseen enemy"
+        },
+        {
+          "ru": "{Поджечь} или {заморозить} {предмет} или {существо}",
+          "en": "{Ignite} or {freeze} an {object} or {creature}"
+        }
+      ],
+      "quote": {
+        "ru": "Посмотрим, спрячется ли оно, когда загорится.",
+        "en": "Let's see if it can hide when it's on fire."
+      }
+    },
+    {
+      "id": "core-c-26",
+      "kind": "challenge",
+      "number": 26,
+      "options": [
+        {
+          "ru": "Действовать сообща, чтобы избежать {столкновения} или {ловушки}",
+          "en": "Work together to avoid an {encounter} or {trap}"
+        },
+        {
+          "ru": "{Распознать} или {обезвредить} скрытую {ловушку} или {врага}",
+          "en": "{Identify} or {disarm} a hidden {trap} or {enemy}"
+        }
+      ],
+      "quote": {
+        "ru": "Нет ничего смертоноснее хорошо поставленной ловушки.",
+        "en": "There's nothing so deadly as a well placed trap."
+      }
+    },
+    {
+      "id": "core-c-27",
+      "kind": "challenge",
+      "number": 27,
+      "options": [
+        {
+          "ru": "{Открыть} {замок} или {сундук} с ловушкой",
+          "en": "{Open} a trapped {lock} or {chest}"
+        },
+        {
+          "ru": "{Украсть} или {вернуть} сокровища {НИП} или {монстра}",
+          "en": "{Steal} or {return} the treasure of an {NPC} or {monster}"
+        }
+      ],
+      "quote": {
+        "ru": "Где сокровища, там и воры.",
+        "en": "Where there is treasure, there are thieves."
+      }
+    },
+    {
+      "id": "core-c-28",
+      "kind": "challenge",
+      "number": 28,
+      "options": [
+        {
+          "ru": "Использовать {выступление} или {речь}, чтобы получить что-то бесплатно",
+          "en": "Use {performance} or {speech} to get something for free"
+        },
+        {
+          "ru": "Действовать сообща, чтобы создать {отвлекающий манёвр} или {маскировку}",
+          "en": "Work together to create a {distraction} or {disguise}"
+        }
+      ],
+      "quote": {
+        "ru": "Ты уверен, что наденешь это?",
+        "en": "Are you sure you are going to wear that?"
+      }
+    },
+    {
+      "id": "core-c-29",
+      "kind": "challenge",
+      "number": 29,
+      "options": [
+        {
+          "ru": "Использовать {фамильяра} или {союзника}, чтобы {разведать обстановку} или {сражаться}",
+          "en": "Use a {familiar} or {ally} to {scout} or {fight}"
+        },
+        {
+          "ru": "Использовать {полёт} или {обострённые чувства}, чтобы уклониться от боя",
+          "en": "Use {flight} or {elevated senses} to evade combat"
+        }
+      ],
+      "quote": {
+        "ru": "Всё кончено, я занимаю господствующую высоту!",
+        "en": "It's over, I have the high ground!"
+      }
+    },
+    {
+      "id": "core-c-30",
+      "kind": "challenge",
+      "number": 30,
+      "options": [
+        {
+          "ru": "{Очаровать} или {приручить} дикого зверя",
+          "en": "{Charm} or {tame} a wild beast"
+        },
+        {
+          "ru": "Использовать {командную работу} или {магию}, чтобы {ускользнуть от} или {перехитрить} монстра",
+          "en": "Use {teamwork} or {magic} to {evade} or {outsmart} a monster"
+        }
+      ],
+      "quote": {
+        "ru": "Испытания даны нам, чтобы мы учились и росли.",
+        "en": "Challenges are put before us to learn and grow."
+      }
+    },
+    {
+      "id": "core-c-31",
+      "kind": "challenge",
+      "number": 31,
+      "options": [
+        {
+          "ru": "{Отомстить за} или {воскресить} павшего друга",
+          "en": "{Avenge} or {revive} a fallen friend"
+        },
+        {
+          "ru": "Использовать {запугивание} или {обаяние}, чтобы {прекратить} или {предотвратить} бой",
+          "en": "Use {intimidation} or {charm} to {end} or {prevent} a fight"
+        }
+      ],
+      "quote": {
+        "ru": "Мира не заключить с оружием наголо.",
+        "en": "Peace can never be made with weapons drawn."
+      }
+    },
+    {
+      "id": "core-c-32",
+      "kind": "challenge",
+      "number": 32,
+      "options": [
+        {
+          "ru": "Победить в состязании по {выпивке} или {азартным играм}",
+          "en": "Win a {drinking} or {gambling} contest"
+        },
+        {
+          "ru": "Заслужить расположение НИП с помощью {напитков} или {еды}",
+          "en": "Gain the favor of an NPC by using {drink} or {food}"
+        }
+      ],
+      "quote": {
+        "ru": "Верность так просто не купишь. К счастью, эль купить можно.",
+        "en": "Loyalty is not easily bought. Luckily, ale is."
+      }
+    },
+    {
+      "id": "core-c-33",
+      "kind": "challenge",
+      "number": 33,
+      "options": [
+        {
+          "ru": "{Увернуться от} или {остановить} падающие предметы",
+          "en": "{Dodge} or {stop} falling objects"
+        },
+        {
+          "ru": "{Запечатать} или {вскрыть} логово монстра",
+          "en": "{Seal shut} or {open up} a monster lair"
+        }
+      ],
+      "quote": {
+        "ru": "Время — сокровище, которого никогда не бывает достаточно.",
+        "en": "Time is the treasure we can never have enough of."
+      }
+    },
+    {
+      "id": "core-c-34",
+      "kind": "challenge",
+      "number": 34,
+      "options": [
+        {
+          "ru": "Убить монстра {отсечением головы} или {магией}",
+          "en": "Slay a monster by {decapitation} or {magic}"
+        },
+        {
+          "ru": "{Обмануть} или {отвлечь} монстра с помощью {магии} или {тактики}",
+          "en": "{Trick} or {divert} a monster using {magic} or {tactics}"
+        }
+      ],
+      "quote": {
+        "ru": "Без головы он драться не может… или может?",
+        "en": "It can't fight without its head… can it?"
+      }
+    },
+    {
+      "id": "core-c-35",
+      "kind": "challenge",
+      "number": 35,
+      "options": [
+        {
+          "ru": "{Очистить} или {изгнать} монстра-нежить",
+          "en": "{Purify} or {banish} an undead {monster}"
+        },
+        {
+          "ru": "{Добыть} или {изготовить} {тотем} или {талисман}",
+          "en": "{Obtain} or {craft} a {totem} or {talisman}"
+        }
+      ],
+      "quote": {
+        "ru": "Не станем ли мы теми самыми монстрами, с которыми сражаемся?",
+        "en": "Will we become the very monsters we fight?"
+      }
+    },
+    {
+      "id": "core-c-36",
+      "kind": "challenge",
+      "number": 36,
+      "options": [
+        {
+          "ru": "Победить в бою с помощью {скакуна} или {спутника-зверя}",
+          "en": "Win combat using a {mount} or {animal companion}"
+        },
+        {
+          "ru": "Использовать окружение, чтобы {победить} или {обезоружить} противника",
+          "en": "Use the environment to {defeat} or {disarm} a foe"
+        }
+      ],
+      "quote": {
+        "ru": "Доблестный скакун стоит своего веса в золоте.",
+        "en": "A valiant steed is worth its weight in gold."
+      }
+    },
+    {
+      "id": "core-c-37",
+      "kind": "challenge",
+      "number": 37,
+      "options": [
+        {
+          "ru": "Собрать более десяти {черепов} или {наград за головы}",
+          "en": "Collect more than ten {skulls} or {bounties}"
+        },
+        {
+          "ru": "{Инсценировать} или {отменить} собственную {смерть} или {исчезновение}",
+          "en": "{Fake} or {undo} your own {death} or {disappearance}"
+        }
+      ],
+      "quote": {
+        "ru": "Что бы ты ни совершил, с собой на ту сторону ничего не заберёшь.",
+        "en": "For all that you achieve, there's nothing you can take with you to the other side."
+      }
+    },
+    {
+      "id": "core-c-38",
+      "kind": "challenge",
+      "number": 38,
+      "options": [
+        {
+          "ru": "Решить проблему, используя знания своей {культуры} или {религии}",
+          "en": "Solve a problem using knowledge from your {culture} or {religion}"
+        },
+        {
+          "ru": "{Найти} или {проложить} путь через густую {растительность} или {местность}",
+          "en": "{Find} or {create} a path through dense {growth} or {terrain}"
+        }
+      ],
+      "quote": {
+        "ru": "Смотри внимательно, и найдёшь путь.",
+        "en": "Look closely, and you will find a way."
+      }
+    },
+    {
+      "id": "core-c-39",
+      "kind": "challenge",
+      "number": 39,
+      "options": [
+        {
+          "ru": "{Спрятаться от} или {оторваться от} врагов, используя {окружение} или {толпу}",
+          "en": "{Hide from} or {shake off} enemies using the {environment} or {crowd}"
+        },
+        {
+          "ru": "{Найти} или {выследить} важного НИП",
+          "en": "{Locate} or {follow} an important NPC"
+        }
+      ],
+      "quote": {
+        "ru": "Я не иду по следам. Меня ведёт запах страха.",
+        "en": "I don't follow footprints. It is the smell of fear that guides me."
+      }
+    },
+    {
+      "id": "core-c-40",
+      "kind": "challenge",
+      "number": 40,
+      "options": [
+        {
+          "ru": "Расшифровать загадочный {язык} или {письмо}",
+          "en": "Decipher a cryptic {language} or {script}"
+        },
+        {
+          "ru": "Спастись из {рушащегося} или {горящего} места",
+          "en": "Escape a {collapsing} or {burning} location"
+        }
+      ],
+      "quote": {
+        "ru": "Когда план проваливается, просто импровизируй!",
+        "en": "When your plan fails, just improvise!"
+      }
+    },
+    {
+      "id": "core-c-41",
+      "kind": "challenge",
+      "number": 41,
+      "options": [
+        {
+          "ru": "Действовать сообща, чтобы {оправиться от} или {предотвратить} смертельное ранение",
+          "en": "Work as a team to {recover from} or {prevent} a fatal injury"
+        },
+        {
+          "ru": "{Отбить} или {поймать} брошенное оружие",
+          "en": "{Deflect} or {catch} a thrown weapon"
+        }
+      ],
+      "quote": {
+        "ru": "Одно ясно наверняка. Мы все станем намного стройнее.",
+        "en": "One thing's for sure. We're all gonna be a lot thinner."
+      }
+    },
+    {
+      "id": "core-c-42",
+      "kind": "challenge",
+      "number": 42,
+      "options": [
+        {
+          "ru": "{Проявить милосердие к} или {исцелить} раненого врага",
+          "en": "{Show mercy} or {heal} an injured enemy"
+        },
+        {
+          "ru": "{Излечить} или {развеять} {яд} или {болезнь}",
+          "en": "{Cure} or {dispel} a {poison} or {disease}"
+        }
+      ],
+      "quote": {
+        "ru": "Сегодня не твой день умирать.",
+        "en": "This is not your day to die."
+      }
+    },
+    {
+      "id": "core-c-43",
+      "kind": "challenge",
+      "number": 43,
+      "options": [
+        {
+          "ru": "Использовать {огонь} или {дым}, чтобы {победить в} или {избежать} конфликта",
+          "en": "Use {fire} or {smoke} to {win} or {escape} a conflict"
+        },
+        {
+          "ru": "Рассечь нескольких {врагов} или {объектов} одной атакой",
+          "en": "Cleave through multiple {foes} or {objects} with a single attack"
+        }
+      ],
+      "quote": {
+        "ru": "Как коса сквозь пшеницу.",
+        "en": "Like a scythe through wheat."
+      }
+    },
+    {
+      "id": "core-c-44",
+      "kind": "challenge",
+      "number": 44,
+      "options": [
+        {
+          "ru": "Использовать {песню} или {танец}, чтобы получить преимущество",
+          "en": "Use {song} or {dance} to gain an advantage"
+        },
+        {
+          "ru": "{Украсть} или {проникнуть}, используя {одежду} или {иллюзию}",
+          "en": "{Steal} or {enter} using {clothing} or {illusion}"
+        }
+      ],
+      "quote": {
+        "ru": "Музыка — сильнейшая форма магии.",
+        "en": "Music is the strongest form of magic."
+      }
+    },
+    {
+      "id": "core-c-45",
+      "kind": "challenge",
+      "number": 45,
+      "options": [
+        {
+          "ru": "Использовать {уговоры} или {грубую силу}, чтобы уйти от конфликта",
+          "en": "Use {talk} or {muscle} to escape a conflict"
+        },
+        {
+          "ru": "{Обеспечить} или {разорвать} {цепочку поставок} или {гильдию}",
+          "en": "{Secure} or {break} a {supply chain} or {guild}"
+        }
+      ],
+      "quote": {
+        "ru": "Переговоры были недолгими.",
+        "en": "The negotiations were short."
+      }
+    },
+    {
+      "id": "core-c-46",
+      "kind": "challenge",
+      "number": 46,
+      "options": [
+        {
+          "ru": "Спастись от опасности, {плывя} или {карабкаясь}",
+          "en": "Escape danger by {swimming} or {climbing}"
+        },
+        {
+          "ru": "{Вести} или {уничтожить} движущееся транспортное средство",
+          "en": "{Pilot} or {destroy} a moving vehicle"
+        }
+      ],
+      "quote": {
+        "ru": "Не оглядывайся. Не оглядывайся!",
+        "en": "Don't look back now. Don't look back!"
+      }
+    },
+    {
+      "id": "core-c-47",
+      "kind": "challenge",
+      "number": 47,
+      "options": [
+        {
+          "ru": "{Расколоть} или {расколдовать} доспехи врага",
+          "en": "{Sunder} or {disenchant} an enemy's armor"
+        },
+        {
+          "ru": "{Ослабить} или {ввести в транс} разумного монстра",
+          "en": "{Weaken} or {entrance} an intelligent monster"
+        }
+      ],
+      "quote": {
+        "ru": "Доспехи или разум — что бы ты предпочёл потерять?",
+        "en": "Your armor or your mind, which would you rather lose?"
+      }
+    },
+    {
+      "id": "core-c-48",
+      "kind": "challenge",
+      "number": 48,
+      "options": [
+        {
+          "ru": "{Открыть} или {уничтожить} магически запертую {дверь} или {ёмкость}",
+          "en": "{Open} or {destroy} a magically locked {door} or {container}"
+        },
+        {
+          "ru": "Раскрыть {слившегося с местностью} или {переодетого} врага",
+          "en": "Reveal a {camouflaged} or {disguised} foe"
+        }
+      ],
+      "quote": {
+        "ru": "Ты правда уверен, что хочешь это открыть?",
+        "en": "You really sure you want to open that?"
+      }
+    },
+    {
+      "id": "core-c-49",
+      "kind": "challenge",
+      "number": 49,
+      "options": [
+        {
+          "ru": "Разгадать сложную {загадку} или {головоломку}",
+          "en": "Decipher a complex {riddle} or {puzzle}"
+        },
+        {
+          "ru": "Помочь {НИП} или {общине} обрести {мир} или {свободу}",
+          "en": "Help an {NPC} or {community} achieve {peace} or {freedom}"
+        }
+      ],
+      "quote": {
+        "ru": "Помощь всегда приходит к тем, кто о ней просит.",
+        "en": "Aid will always come to those who ask for it."
+      }
+    },
+    {
+      "id": "core-c-50",
+      "kind": "challenge",
+      "number": 50,
+      "options": [
+        {
+          "ru": "Выманить монстра {звуком} или {запахом}",
+          "en": "Lure away a monster using {sound} or {smell}"
+        },
+        {
+          "ru": "Склонить на свою сторону НИП с помощью {речи} или {музыки}",
+          "en": "Win over an NPC using {speech} or {music}"
+        }
+      ],
+      "quote": {
+        "ru": "Завоюй сердце — и будешь править всем миром.",
+        "en": "Win over the heart, rule the entire world."
+      }
+    },
+    {
+      "id": "core-r-01",
+      "kind": "reward",
+      "number": 1,
+      "options": [
+        {
+          "ru": "Бросьте дважды и выберите лучший результат для {атаки} или {уклонения}",
+          "en": "Roll twice. Choose the best result for your {attack} or {evasion}",
+          "tag": "play"
+        },
+        {
+          "ru": "Ваши легендарные подвиги увековечены в {песне}, {сказании} или на {мемориальной доске}",
+          "en": "Your legendary deeds are remembered in a {song, tale} or {plaque}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Наша задача — прожить достаточно долго, чтобы оставить наследие.",
+        "en": "Our challenge is to live long enough to leave a legacy."
+      }
+    },
+    {
+      "id": "core-r-02",
+      "kind": "reward",
+      "number": 2,
+      "options": [
+        {
+          "ru": "Вас {прославляют} или {боятся} в этих краях",
+          "en": "You become {famous} or {feared} in the local region",
+          "tag": "story"
+        },
+        {
+          "ru": "Вы получаете зелье {исцеления} или {сопротивления}",
+          "en": "You receive a potion of {healing} or {resistance}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Победителю достаются трофеи.",
+        "en": "To the victor go the spoils."
+      }
+    },
+    {
+      "id": "core-r-03",
+      "kind": "reward",
+      "number": 3,
+      "options": [
+        {
+          "ru": "Вы получаете коробку со {случайным предметом-сокровищем}",
+          "en": "You receive a box with a {random treasure item}",
+          "tag": "story"
+        },
+        {
+          "ru": "Перебросьте проваленную проверку {Ловкости} или {слуха}",
+          "en": "Reroll a failed {dexterity} or {listen} check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Лучшие сокровища — те, что не нужно покупать.",
+        "en": "The finest treasures are those you don't have to buy."
+      }
+    },
+    {
+      "id": "core-r-04",
+      "kind": "reward",
+      "number": 4,
+      "options": [
+        {
+          "ru": "Автоматически преуспейте в проверке {Харизмы} или {проворства}",
+          "en": "Automatically succeed a {charisma} or {agility} check",
+          "tag": "play"
+        },
+        {
+          "ru": "Ваша атака наносит {тройной урон} или {игнорирует сопротивление}",
+          "en": "Your attack deals {triple damage} or {ignores resistance}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Первый порез всегда самый глубокий.",
+        "en": "The first cut is always the deepest."
+      }
+    },
+    {
+      "id": "core-r-05",
+      "kind": "reward",
+      "number": 5,
+      "options": [
+        {
+          "ru": "НИП предоставляет вам {безопасный проход} или {вход}",
+          "en": "An NPC grants you {safe passage} a {entry}",
+          "tag": "story"
+        },
+        {
+          "ru": "Перебросьте проваленную проверку {Ловкости} или {Силы}",
+          "en": "Reroll a failed {dexterity} or {strength} check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Не могу отделаться от ощущения, что этот лес живой…",
+        "en": "I can't shake the feeling, this forest is alive..."
+      }
+    },
+    {
+      "id": "core-r-06",
+      "kind": "reward",
+      "number": 6,
+      "options": [
+        {
+          "ru": "Удвойте свою {скорость передвижения} или {силу} на 1 минуту",
+          "en": "Double your {movement} or {strength} for 1 minute",
+          "tag": "play"
+        },
+        {
+          "ru": "Игнорируйте последствия {усталости} или {погоды} в течение 1 часа",
+          "en": "Ignore the effects of {fatigue} or {weather} for 1 hour",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Испытания преодолеваются шаг за шагом.",
+        "en": "Challenges are overcome, one step at a time."
+      }
+    },
+    {
+      "id": "core-r-07",
+      "kind": "reward",
+      "number": 7,
+      "options": [
+        {
+          "ru": "Вы получаете письмо, раскрывающее местонахождение тайного {сокровища} или {могущества}",
+          "en": "You get a letter that reveals the location of a secret {treasure} or {power}",
+          "tag": "story"
+        },
+        {
+          "ru": "Перебросьте проваленную проверку {переговоров} или {Анализа}",
+          "en": "Reroll a failed {negotiation} or {investigation} check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Не оставляй без внимания ни одного камня. Будь бдителен.",
+        "en": "Leave no stone unturned. Stay vigilant."
+      }
+    },
+    {
+      "id": "core-r-08",
+      "kind": "reward",
+      "number": 8,
+      "options": [
+        {
+          "ru": "НИП проникается к вам симпатией и хочет {вступить с вами в брак} или {обучить} вас",
+          "en": "An NPC grows fond of you and wants to {marry} or {train} you",
+          "tag": "story"
+        },
+        {
+          "ru": "Автоматически преуспейте в проверке {Харизмы} или {Мудрости}",
+          "en": "Automatically succeed a {charisma} or {wisdom} check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Любовь может быть мощным проклятием или защитой.",
+        "en": "Love can be a powerful curse or protection."
+      }
+    },
+    {
+      "id": "core-r-09",
+      "kind": "reward",
+      "number": 9,
+      "options": [
+        {
+          "ru": "Получите временный иммунитет к {очарованию} или {иллюзиям}",
+          "en": "Gain temporary immunity against {charm} or {illusions}",
+          "tag": "play"
+        },
+        {
+          "ru": "Получите услуги {разведчика} или {громилы} на неделю",
+          "en": "Gain the services of a {scout} or {thug} for one week",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Загляни сквозь магию — и увидишь скрытую в ней истину.",
+        "en": "See through the magic to reveal the truth within."
+      }
+    },
+    {
+      "id": "core-r-10",
+      "kind": "reward",
+      "number": 10,
+      "options": [
+        {
+          "ru": "Автоматически преуспейте в проверке, чтобы {перевести текст} или {решить головоломку}",
+          "en": "Automatically succeed on a check to {translate} or {solve a puzzle}",
+          "tag": "play"
+        },
+        {
+          "ru": "Вы обнаруживаете редкий {предмет-сокровище} или {запретный фолиант}",
+          "en": "You discover a rare {treasure item} or {forbidden tome}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Труднее всего разгадывать головоломки разума.",
+        "en": "The hardest puzzles are those of the mind."
+      }
+    },
+    {
+      "id": "core-r-11",
+      "kind": "reward",
+      "number": 11,
+      "options": [
+        {
+          "ru": "Вас принимают в почётные члены {академии} или известной {гильдии}",
+          "en": "You are made honorary member of an {academy} or renowned {guild}",
+          "tag": "story"
+        },
+        {
+          "ru": "Ваша способность замечать {ложь} или {иллюзии} навсегда улучшается",
+          "en": "Your ability to detect {lies} or {illusions} permanently improves",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Лишь мы, посвящённые, проводим границу между фактом и вымыслом.",
+        "en": "Only we, the initiated, draw the line between fact and fiction."
+      }
+    },
+    {
+      "id": "core-r-12",
+      "kind": "reward",
+      "number": 12,
+      "options": [
+        {
+          "ru": "Бросьте дважды и выберите лучший результат для {атаки} или {уклонения}",
+          "en": "Roll twice. Choose the best result for your {attack} or {evasion}",
+          "tag": "play"
+        },
+        {
+          "ru": "Используйте показатели члена отряда для своего броска атаки {оружием} или {заклинанием}",
+          "en": "Use a party member's stats for your {weapon} or {spell} attack roll",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Верный друг ценнее любой магии и любого меча.",
+        "en": "A loyal friend is worth more than any magic or sword."
+      }
+    },
+    {
+      "id": "core-r-13",
+      "kind": "reward",
+      "number": 13,
+      "options": [
+        {
+          "ru": "Автоматически преуспейте, чтобы {произвести впечатление} или {обмануть}",
+          "en": "Automatically succeed to {impress} or {deceive}",
+          "tag": "play"
+        },
+        {
+          "ru": "{Дышите под водой} или {преодолевайте гравитацию} в течение пяти минут",
+          "en": "{Breathe underwater} or {defy gravity} for five minutes",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Чтобы понять мир, нужно сперва понять себя.",
+        "en": "To understand the world, we must first understand ourselves."
+      }
+    },
+    {
+      "id": "core-r-14",
+      "kind": "reward",
+      "number": 14,
+      "options": [
+        {
+          "ru": "Перебросьте {бросок атаки} или {проверку навыка} по своему выбору",
+          "en": "Reroll an {attack} or {skill check} of choice",
+          "tag": "play"
+        },
+        {
+          "ru": "{Изготовление} или {изучение} занимает вдвое меньше времени",
+          "en": "{Crafting} or {studying} takes only half the time",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Непоколебимая преданность делу — ключ к успеху.",
+        "en": "Unwavering dedication is the key to success."
+      }
+    },
+    {
+      "id": "core-r-15",
+      "kind": "reward",
+      "number": 15,
+      "options": [
+        {
+          "ru": "Перебросьте проверку {Ловкости} или {Силы}",
+          "en": "Reroll a {dexterity} or {strength} check",
+          "tag": "play"
+        },
+        {
+          "ru": "{Наёмник} или {ремесленник} на неделю бесплатно предлагает вам свои услуги",
+          "en": "A {mercenary} or {artisan} offers their services for one week, free of charge",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Договорились.",
+        "en": "You got yourself a deal."
+      }
+    },
+    {
+      "id": "core-r-16",
+      "kind": "reward",
+      "number": 16,
+      "options": [
+        {
+          "ru": "Перебросьте спасбросок от {яда} или {болезни}",
+          "en": "Reroll a saving throw against {poison} or {disease}",
+          "tag": "play"
+        },
+        {
+          "ru": "Перебросьте проваленную проверку {ориентирования} или {Выживания}",
+          "en": "Reroll a failed {navigation} or {survival} check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Сама природа — лучший лекарь.",
+        "en": "Nature itself is the best physician."
+      }
+    },
+    {
+      "id": "core-r-17",
+      "kind": "reward",
+      "number": 17,
+      "options": [
+        {
+          "ru": "НИП бесплатно предлагает {безопасное место для ночлега} или помогает {пополнить ваши припасы}",
+          "en": "An NPC offers a {safe place to stay} or to {restock your supplies} free of charge",
+          "tag": "story"
+        },
+        {
+          "ru": "Автоматически преуспейте, чтобы {произвести впечатление} или {обмануть}",
+          "en": "Automatically succeed to {impress} or {deceive}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Сложите оружие и дайте отдых усталым ногам.",
+        "en": "Lay down your arms and put up your weary feet."
+      }
+    },
+    {
+      "id": "core-r-18",
+      "kind": "reward",
+      "number": 18,
+      "options": [
+        {
+          "ru": "Бросьте дважды и выберите лучший результат для {поиска} или {ориентирования}",
+          "en": "Roll twice. Pick the best result for {search} or {navigation}",
+          "tag": "play"
+        },
+        {
+          "ru": "{Предмет} или {союзник} появляется, когда он нужнее всего",
+          "en": "An {item} or {ally} appears when you need it most",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Жизнь порой — азартная игра. Рискни!",
+        "en": "Life's a gamble sometimes. Take a chance!"
+      }
+    },
+    {
+      "id": "core-r-19",
+      "kind": "reward",
+      "number": 19,
+      "options": [
+        {
+          "ru": "Атака против {нежити} или {элементаля} наносит тройной урон",
+          "en": "An attack against {undead} or {elemental} deals triple damage",
+          "tag": "play"
+        },
+        {
+          "ru": "Возьмите под контроль одну {нежить} или одного {НИП} на один час",
+          "en": "Control one {undead} or {NPC} for one hour",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Их возвращают лишь для того, чтобы они умерли снова.",
+        "en": "They are brought back only to die again."
+      }
+    },
+    {
+      "id": "core-r-20",
+      "kind": "reward",
+      "number": 20,
+      "options": [
+        {
+          "ru": "Автоматически обнаружьте {скрытое} или {невидимое существо}, или {предмет}",
+          "en": "Automatically spot a {hidden} or {invisible creature} or {object}",
+          "tag": "play"
+        },
+        {
+          "ru": "Временно получите {тёмное зрение} или {обострённую бдительность}",
+          "en": "Temporarily gain {darkvision} or {heightened awareness}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Зоркие глаза лучше громоздкого щита.",
+        "en": "A keen pair of eyes beats a cumbersome shield."
+      }
+    },
+    {
+      "id": "core-r-21",
+      "kind": "reward",
+      "number": 21,
+      "options": [
+        {
+          "ru": "Станьте членом {местного совета} или {преступного синдиката}",
+          "en": "Become a member of a {local council} or {crime syndicate}",
+          "tag": "story"
+        },
+        {
+          "ru": "Атака {попадает автоматически} или наносит {максимальный урон}",
+          "en": "An attack is an {automatic hit} or deals {maximum damage}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Этот простой браслет защитит и направит тебя.",
+        "en": "This simple bracelet will protect and guide you."
+      }
+    },
+    {
+      "id": "core-r-22",
+      "kind": "reward",
+      "number": 22,
+      "options": [
+        {
+          "ru": "Получите личную аудиенцию у {сановника} или {криминального авторитета}",
+          "en": "Get a private audience with a {dignitary} or a {crime lord}",
+          "tag": "story"
+        },
+        {
+          "ru": "Местная таверна предлагает {ночлег и еду} или {ценные сведения}",
+          "en": "A local tavern offers {lodging and meals} or {valuable information}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Подойди, присаживайся за мой стол. Давай немного поговорим.",
+        "en": "Come now, sit at my table. Let's talk for a spell."
+      }
+    },
+    {
+      "id": "core-r-23",
+      "kind": "reward",
+      "number": 23,
+      "options": [
+        {
+          "ru": "Местный ремесленник дорабатывает под вас ваше {оружие} или {одежду}",
+          "en": "A local artisan personalizes your {weapons} or {clothing}",
+          "tag": "story"
+        },
+        {
+          "ru": "Выясняется, что ваш род связан с легендарным {героем} или {правителем} былых времён",
+          "en": "Your lineage turns out to be linked to a legendary {hero} or {ruler} of yore",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Каждый твой поступок сеет семена судьбы.",
+        "en": "Each action you take sows the seeds of fate."
+      }
+    },
+    {
+      "id": "core-r-24",
+      "kind": "reward",
+      "number": 24,
+      "options": [
+        {
+          "ru": "Получите {двойное сокровище} или {очки опыта}",
+          "en": "Receive {double treasure} or {XP points}",
+          "tag": "story"
+        },
+        {
+          "ru": "Вас делают особым членом местной гильдии {купцов} или {ремесленников}",
+          "en": "You are made a special member of the local {merchant} or {artisan} guild",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Связи ценнее золота.",
+        "en": "Connections are worth more than gold."
+      }
+    },
+    {
+      "id": "core-r-25",
+      "kind": "reward",
+      "number": 25,
+      "options": [
+        {
+          "ru": "Перебросьте проваленную проверку {выслеживания} или {Выживания}",
+          "en": "Reroll a failed {tracking} or {survival} check",
+          "tag": "play"
+        },
+        {
+          "ru": "Пройдите {вдвое большее расстояние по суше} или {останьтесь незамеченными}",
+          "en": "Travel {double the overland distance} or {avoid being seen}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Мы доберёмся. Шаг за шагом.",
+        "en": "We will get there. One step at a time."
+      }
+    },
+    {
+      "id": "core-r-26",
+      "kind": "reward",
+      "number": 26,
+      "options": [
+        {
+          "ru": "Бросьте {тройной урон} или совершите {две атаки} по существу",
+          "en": "Roll {triple damage} or {make two attacks} against a creature",
+          "tag": "play"
+        },
+        {
+          "ru": "Поменяйтесь результатом инициативы с {монстром} или {членом отряда}",
+          "en": "Swap initiative result with a {monster} or {party member}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Победоносные воины сначала побеждают, а потом идут на войну.",
+        "en": "Victorious warriors win first, then go to war."
+      }
+    },
+    {
+      "id": "core-r-27",
+      "kind": "reward",
+      "number": 27,
+      "options": [
+        {
+          "ru": "НИП — {вор} или {телохранитель} — предлагает помогать вам в течение недели",
+          "en": "An NPC {thief} or {bodyguard} offers to assist you for one week",
+          "tag": "story"
+        },
+        {
+          "ru": "НИП незаметно проводит вас в {тайную} или {закрытую} зону",
+          "en": "An NPC grants unseen entry into a {secret} or {restricted} area",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "На этот раз позволь мне сделать грязную работу.",
+        "en": "Let me do the dirty work, this time."
+      }
+    },
+    {
+      "id": "core-r-28",
+      "kind": "reward",
+      "number": 28,
+      "options": [
+        {
+          "ru": "Получите бесплатный ремонт своих {инструментов} или {оружия}",
+          "en": "Get a free repair for your {tools} or {weapons}",
+          "tag": "story"
+        },
+        {
+          "ru": "Удвойте результат своей проверки {Силы} или броска {атаки}",
+          "en": "Double the result of your {strength} or {attack} roll",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Сила не в мускулах? Скажи это моему молоту.",
+        "en": "Strength is not measured in muscle? Tell that to my hammer."
+      }
+    },
+    {
+      "id": "core-r-29",
+      "kind": "reward",
+      "number": 29,
+      "options": [
+        {
+          "ru": "Удвойте результат своей проверки {Ловкости} или {Харизмы}",
+          "en": "Double the result of your {dexterity} or {charisma} check",
+          "tag": "play"
+        },
+        {
+          "ru": "Получите зелье {лазания} или {плавания}",
+          "en": "Receive a potion of {climbing} or {swimming}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "А теперь глубоко вдохни!",
+        "en": "Take a deep breath now!"
+      }
+    },
+    {
+      "id": "core-r-30",
+      "kind": "reward",
+      "number": 30,
+      "options": [
+        {
+          "ru": "Автоматически преуспейте в проверке {Мудрости} или {поиска}",
+          "en": "Automatically succeed a {wisdom} or {search} skill check",
+          "tag": "play"
+        },
+        {
+          "ru": "Получите важную {улику} или {предмет}, связанные с вашим заданием",
+          "en": "Receive a crucial {clue} or {object} related to your quest",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Ты видишь, но не наблюдаешь.",
+        "en": "You see, but you do not observe."
+      }
+    },
+    {
+      "id": "core-r-31",
+      "kind": "reward",
+      "number": 31,
+      "options": [
+        {
+          "ru": "Полностью исцелите члена отряда от {травм} или {недугов}",
+          "en": "Fully recover a party member from {injury} or {ailments}",
+          "tag": "play"
+        },
+        {
+          "ru": "Полностью пополните свой запас {боеприпасов} или {компонентов заклинаний}",
+          "en": "Receive a full restock of your {ammo} or {spell components}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "С хорошими спутниками тяготы легки.",
+        "en": "Great companions make hardships light."
+      }
+    },
+    {
+      "id": "core-r-32",
+      "kind": "reward",
+      "number": 32,
+      "options": [
+        {
+          "ru": "Удвойте результат своей проверки {Обмана} или {Проницательности}",
+          "en": "Double the result of your {deception} or {insight} check",
+          "tag": "play"
+        },
+        {
+          "ru": "Получите {роскошную одежду} или {качественное оружие}",
+          "en": "Receive {luxury clothes} or a {quality weapon}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Чтобы владеть острым клинком, нужен острый ум.",
+        "en": "To wield a sharp blade you need a sharp mind."
+      }
+    },
+    {
+      "id": "core-r-33",
+      "kind": "reward",
+      "number": 33,
+      "options": [
+        {
+          "ru": "Получите временный иммунитет к тому, чтобы быть {застигнутым врасплох, схваченным} или {испуганным}",
+          "en": "Gain temporary immunity to being {surprised, grappled} or {frightened}",
+          "tag": "play"
+        },
+        {
+          "ru": "Что бы ни выпало на кубике, ваш результат {инициативы} или {Скрытности} — наивысший",
+          "en": "No matter your die roll, you have the highest {initiative} or {stealth} result",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Действуй сейчас, пока не упущен момент.",
+        "en": "Act now, before the moment is lost."
+      }
+    },
+    {
+      "id": "core-r-34",
+      "kind": "reward",
+      "number": 34,
+      "options": [
+        {
+          "ru": "Получите {магический свиток} или {случайное сокровище}",
+          "en": "Receive a {magic scroll} or {random treasure}",
+          "tag": "story"
+        },
+        {
+          "ru": "Автоматически преуспейте в проверке {навыка} или {характеристики}",
+          "en": "Automatically succeed on a {skill} or {ability} skill check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Знания бесполезны, если их нельзя применить.",
+        "en": "Knowledge is useless unless it can be applied."
+      }
+    },
+    {
+      "id": "core-r-35",
+      "kind": "reward",
+      "number": 35,
+      "options": [
+        {
+          "ru": "Атака заклинанием {наносит двойной урон} или {игнорирует линию обзора}",
+          "en": "A spell attack deals {double damage} or {ignores line of sight}",
+          "tag": "play"
+        },
+        {
+          "ru": "Дробящее оружие наносит тройной урон {существу} или {объекту на ваш выбор}",
+          "en": "A bludgeoning weapon deals triple damage against a {creature} or {object of choice}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Добро пожаловать в клуб. Ты как раз впишешься.",
+        "en": "Welcome to the club. You'll fit right in."
+      }
+    },
+    {
+      "id": "core-r-36",
+      "kind": "reward",
+      "number": 36,
+      "options": [
+        {
+          "ru": "{Дикое животное} или {монстр} выполняет ваши приказы в течение 1 часа",
+          "en": "A {wild animal} or {monster} follows your orders for one hour",
+          "tag": "play"
+        },
+        {
+          "ru": "{Правитель} или {целый регион} хранит вам верность и всеми силами помогает вашей миссии",
+          "en": "A {ruler} or {region} becomes loyal to you and aids your mission in any way they can",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Друзья бывают в самых разных обличьях.",
+        "en": "Friends can come in many shapes."
+      }
+    },
+    {
+      "id": "core-r-37",
+      "kind": "reward",
+      "number": 37,
+      "options": [
+        {
+          "ru": "Ваше {зрение} или {слух} навсегда становится острее",
+          "en": "Your {eyesight} or {hearing} becomes permanently sharper",
+          "tag": "story"
+        },
+        {
+          "ru": "Ваша {Сила} или {Ловкость} навсегда повышается",
+          "en": "Your {strength} or {dexterity} permanently improves",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Без борьбы нет прогресса.",
+        "en": "Without struggle, there is no progress."
+      }
+    },
+    {
+      "id": "core-r-38",
+      "kind": "reward",
+      "number": 38,
+      "options": [
+        {
+          "ru": "Удвойте результат броска кубика при {плавании} или {беге}",
+          "en": "Double your die roll result for {swimming} or {running}",
+          "tag": "play"
+        },
+        {
+          "ru": "Автоматически заметьте {ловушку} или {магический предмет}",
+          "en": "Automatically spot a {trap} or {magical object}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "По-твоему, это похоже на проклятое?",
+        "en": "Does this look cursed to you?"
+      }
+    },
+    {
+      "id": "core-r-39",
+      "kind": "reward",
+      "number": 39,
+      "options": [
+        {
+          "ru": "Группа {животных} или {людей} теперь видит в вас своего благородного предводителя",
+          "en": "A group of {animals} or {people} now see you as their noble leader",
+          "tag": "story"
+        },
+        {
+          "ru": "Автоматически преуспейте в проверке {Харизмы} или {Выступления}",
+          "en": "Automatically succeed a {charisma} or {performance} check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Лидерство можно лишь даровать, но нельзя захватить.",
+        "en": "Leadership can only be given, never taken."
+      }
+    },
+    {
+      "id": "core-r-40",
+      "kind": "reward",
+      "number": 40,
+      "options": [
+        {
+          "ru": "Утройте свой результат, когда вы {плывёте, бежите} или {лезете}, в течение 1 минуты",
+          "en": "Triple your result to {swim, run} or {climb} for one minute",
+          "tag": "play"
+        },
+        {
+          "ru": "Используйте {Силу} или {Ловкость} члена отряда",
+          "en": "Use a party members' {strength} or {dexterity}",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Ты прикрываешь мою спину, я — твою.",
+        "en": "You watch my back, I'll watch yours."
+      }
+    },
+    {
+      "id": "core-r-41",
+      "kind": "reward",
+      "number": 41,
+      "options": [
+        {
+          "ru": "Перебросьте спасбросок против {монстра} или {НИП} по выбору",
+          "en": "Reroll a saving throw against a {monster} or {NPC} of choice",
+          "tag": "play"
+        },
+        {
+          "ru": "Один раз проигнорируйте урон от {ловушки} или {монстра}",
+          "en": "Ignore damage from a {trap} or {monster} once",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Если не получается быть проворным, будь везучим.",
+        "en": "When you can't be agile, be lucky."
+      }
+    },
+    {
+      "id": "core-r-42",
+      "kind": "reward",
+      "number": 42,
+      "options": [
+        {
+          "ru": "Вы получаете ценное {зашифрованное сообщение} или {пропуск в закрытую зону}",
+          "en": "You receive a valuable {coded message} or {pass to a restricted area}",
+          "tag": "story"
+        },
+        {
+          "ru": "В вашу честь называют {улицу} или {ребёнка}",
+          "en": "A {street} or {child} is named after you",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Где закрывается одна дверь, открывается другая.",
+        "en": "Where one door closes, another opens."
+      }
+    },
+    {
+      "id": "core-r-43",
+      "kind": "reward",
+      "number": 43,
+      "options": [
+        {
+          "ru": "Вы получаете {утроенные очки опыта} или {малый магический предмет}",
+          "en": "You receive {triple XP} or a {minor magic item}",
+          "tag": "story"
+        },
+        {
+          "ru": "Местный ремесленник чинит повреждённое {оружие} или {предмет}",
+          "en": "A local artisan repairs a damaged {weapon} or {item}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Ну-ка, ты только погляди! Какая, однако, блестящая вещица.",
+        "en": "Well would you look at this? That is very shiny indeed."
+      }
+    },
+    {
+      "id": "core-r-44",
+      "kind": "reward",
+      "number": 44,
+      "options": [
+        {
+          "ru": "Бросьте дважды и выберите лучший результат для проверки {выслеживания} или {Выживания}",
+          "en": "Roll twice. Pick the best result for {tracking} or {survival}",
+          "tag": "play"
+        },
+        {
+          "ru": "Вы узнаёте, где находится {НИП} или {предмет}, важный для вашего задания",
+          "en": "You learn the location of an {NPC} or {item} crucial to your quest",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Я читаю эти следы, как слова на странице.",
+        "en": "I read these tracks like words on a page."
+      }
+    },
+    {
+      "id": "core-r-45",
+      "kind": "reward",
+      "number": 45,
+      "options": [
+        {
+          "ru": "Ваша дальняя атака {наносит тройной урон} или {игнорирует сопротивление урону}",
+          "en": "Your ranged attack deals {triple damage} or {ignores resistance}",
+          "tag": "play"
+        },
+        {
+          "ru": "Автоматически преуспейте во вскрытии {сложного} или {магического} замка",
+          "en": "Automatically succeed at opening a {difficult} or {magical} lock",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Найди слабое место. Найди решение.",
+        "en": "Find the weak spot. Find the solution."
+      }
+    },
+    {
+      "id": "core-r-46",
+      "kind": "reward",
+      "number": 46,
+      "options": [
+        {
+          "ru": "В честь ваших достижений создаётся памятная {монета} или {статуя}",
+          "en": "A celebratory {coin} or {statue} is made to honor your achievements",
+          "tag": "story"
+        },
+        {
+          "ru": "Автоматически преуспейте в проверке {торговли} или {ремесла}",
+          "en": "Automatically succeed your {trading} or {crafting} check",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Отправляйся навстречу приключениям. Оставь свой след в этом мире.",
+        "en": "Go, adventure. Leave your mark on this world."
+      }
+    },
+    {
+      "id": "core-r-47",
+      "kind": "reward",
+      "number": 47,
+      "options": [
+        {
+          "ru": "Перебросьте {спасбросок, бросок атаки} или {проверку навыка}",
+          "en": "Re-roll a {saving throw, attack} or {skill check}",
+          "tag": "play"
+        },
+        {
+          "ru": "Атака по {конструкту} или {нежити} гарантированно становится критическим попаданием",
+          "en": "An attack against a {construct} or {undead} lands a guaranteed critical hit",
+          "tag": "play"
+        }
+      ],
+      "quote": {
+        "ru": "Знакомьтесь, мои два друга. Они обожают танцевать.",
+        "en": "Meet my two friends. They love to dance."
+      }
+    },
+    {
+      "id": "core-r-48",
+      "kind": "reward",
+      "number": 48,
+      "options": [
+        {
+          "ru": "Вы изучили новый {язык} или {заговор}",
+          "en": "You have learned a new {language} or {cantrip}",
+          "tag": "story"
+        },
+        {
+          "ru": "Вы получаете ценный {самоцвет} или {предмет искусства}",
+          "en": "You receive a prized {gemstone} or {art object}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Величайшее из видений — прозрение.",
+        "en": "The grandest of visions is insight."
+      }
+    },
+    {
+      "id": "core-r-49",
+      "kind": "reward",
+      "number": 49,
+      "options": [
+        {
+          "ru": "Вы получаете свиток {обнаружения лжи} или {изменения памяти}",
+          "en": "You obtain a scroll of {detect lies} or {modify memory}",
+          "tag": "story"
+        },
+        {
+          "ru": "Вы изучаете новый {язык} или {могущественную песню}",
+          "en": "You learn a new {language} or {powerful song}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Открытый ум острее любого меча.",
+        "en": "An open mind is sharper than any sword."
+      }
+    },
+    {
+      "id": "core-r-50",
+      "kind": "reward",
+      "number": 50,
+      "options": [
+        {
+          "ru": "Получите бесплатный {ночлег} или {припасы} от местного заведения",
+          "en": "Gain free {lodging} or {supplies} from a local business",
+          "tag": "story"
+        },
+        {
+          "ru": "Навсегда улучшите своё умение {петь} или {торговать}",
+          "en": "Permanently improve your ability to {sing} or {trade}",
+          "tag": "story"
+        }
+      ],
+      "quote": {
+        "ru": "Самые крепкие узы куются не в кузнице, а на кухне.",
+        "en": "The strongest of bonds are forged not in the forge, but the kitchen."
+      }
+    }
+  ]
+}
